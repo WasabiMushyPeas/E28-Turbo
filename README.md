@@ -1,7 +1,7 @@
 # E28-Turbo :cyclone:
 
 
-## Wiring Diagram :graph:
+## Wiring Diagram :bar_chart:
 ![alt text](./car-ECU-wiring-diagram/car-ECU-wiring-diagram.svg)
 
 
