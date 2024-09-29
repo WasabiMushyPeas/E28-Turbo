@@ -2,7 +2,7 @@
 
 
 ## Wiring Diagram :graph:
-![alt text](./car-ECU-wiring-diagram/car-ECU-wiring-diagram.pdf)
+![alt text](./car-ECU-wiring-diagram/car-ECU-wiring-diagram.svg)
 
 
 ## Wiring Supplies :electric_plug:
