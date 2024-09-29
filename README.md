@@ -6,7 +6,7 @@
 
 
 ## Wiring Supplies :electric_plug:
-| Ecu Wiring                      |                                                                                                                                                                                                                                                                                                                               |      
+| Name                      |         Price                                                                                                                                                                                                                                                                                                                      |      
 | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
 | [Fuse and Relay Box](https://www.waytekwire.com/product/eaton-s-bussmann-series-15305-4-0-4-rtmr-mini-fuse) | $32.09 |
 | [16-14 awg terminal female](https://www.waytekwire.com/product/aptiv-12129409-metri-pack-280-series-16-14-ga) | $7.07 |
@@ -25,6 +25,9 @@
 | [3 Way Female TPA](https://www.waytekwire.com/catalog/connectors/aptiv-metri-pack-280-series/aptiv-12034145-metri-pack-280-series-tpa) | $8 |
 | [14-12 awg terminal male](https://www.waytekwire.com/catalog/connectors/aptiv-metri-pack-280-series/aptiv-12129497-metri-pack-280-series-14-12-ga) | $16.56  |
 | [Corrugated 0.250" 100'](https://www.waytekwire.com/catalog/wire-coverings-and-protection/corrugated-loom/corrugated-loom-lcn-250-100-split-nylon) | $20.44  |
+
+## Sensors :thermometer:
+
 
 
 ## Sources :books:
