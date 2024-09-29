@@ -21,3 +21,9 @@
 | [3 Way Female TPA](https://www.waytekwire.com/catalog/connectors/aptiv-metri-pack-280-series/aptiv-12034145-metri-pack-280-series-tpa) | $8 |
 | [14-12 awg terminal male](https://www.waytekwire.com/catalog/connectors/aptiv-metri-pack-280-series/aptiv-12129497-metri-pack-280-series-14-12-ga) | $16.56  |
 | [Corrugated 0.250" 100'](https://www.waytekwire.com/catalog/wire-coverings-and-protection/corrugated-loom/corrugated-loom-lcn-250-100-split-nylon) | $20.44  |
+
+
+## Sources
+
+- [Turbo my car Sheets](https://docs.google.com/spreadsheets/d/1L-gm92k8GjX_CAtG5Tr8l-kkGmf6Y0_LVqK74C0jl5A/edit?usp=sharing)
+- [Tips For Turbo Doc](https://docs.google.com/document/d/1tCY4XEPRH73pGDfh2RHCs6wGMogO4zm7vlCZIpCkT3s/edit?usp=sharing)
