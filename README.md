@@ -1,6 +1,6 @@
 # E28-Turbo :cyclone:
 
-## Info :information_source:
+# Info :information_source:
 - What I know
 - What needs to be done
 - Tips
@@ -11,15 +11,27 @@
 
 ### Fuel Pump
 
+The Stock Fuel Pump in an E28 535i can comfortably sustain ~110lph at 43.5psi. Therefore the stock fuel pump can support ~265hp. In this build our target is about 500whp. To achieve this we will need to upgrade the fuel pump. I have chosen the AEM 340lhp E85 fuel pump as the conversion is not too hard and the pump is capable of supporting over 500whp (plus it supports E85 fuel).
+
 ### Fuel Rails/ Lines
+
+The stock fuel lines and rails are capable of supporting the target power. However replacing the fuel lines with newer hoses is a good idea.
 
 ### Fuel Pressure Regulator
 
+The stock fuel pressure regulator is capable of supporting the target power.
+
 ### Fuel Filter
+
+The stock fuel filter is capable of supporting the target power.
 
 ### Injectors
 
+The stock injectors are not capable of supporting the target power. I have chosen the siemens deka 80lb injectors as they are capable of supporting over 500whp.
+
 ### Fuel Pump Wiring
+
+The AEM fuel pump is supposed to be fused at 20amps. Therefore the wiring system will need to be upgraded to support this. 12awg wire is recommended along with at least a 20amp relay (I will use a 35amp relay).
 
 ### Flex Fuel Sensor
 
