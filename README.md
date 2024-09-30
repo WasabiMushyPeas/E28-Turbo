@@ -6,86 +6,86 @@
 - Tips
 (if any of the sections are empty there is most likely information on it in one of the sources)
 
-### Fuel System :fuelpump:
+## Fuel System :fuelpump:
 -------------------
 
-## Fuel Pump
+### Fuel Pump
 
-## Fuel Rails/ Lines
+### Fuel Rails/ Lines
 
-## Fuel Pressure Regulator
+### Fuel Pressure Regulator
 
-## Fuel Filter
+### Fuel Filter
 
-## Injectors
+### Injectors
 
-## Fuel Pump Wiring
+### Fuel Pump Wiring
 
-## Flex Fuel Sensor
+### Flex Fuel Sensor
 
 
 
-### Air System :dash:
+## Air System :dash:
 -------------------
 
-## Air Filter
+### Air Filter
 
-## Turbo
+### Turbo
 
-## Intercooler
+### Intercooler
 
-## Wastegate
+### Wastegate
 
-## Blow Off Valve
+### Blow Off Valve
 
-## Intake Manifold
+### Intake Manifold
 
-## Throttle Body
+### Throttle Body
 
-## MAP Sensor
+### MAP Sensor
 
-## IAT Sensor
+### IAT Sensor
 
-## TPS Sensor
+### TPS Sensor
 
-## Exhaust Manifold
+### Exhaust Manifold
 
-## Downpipe
+### Downpipe
 
-## Exhaust System
+### Exhaust System
 
-## Boost Controller
+### Boost Controller
 
-## Boost Gauge
+### Boost Gauge
 
-## AFR Gauge
+### AFR Gauge
 
-## Sensor wiring
+### Sensor wiring
 
 
 
-### Spark System :fire:
+## Spark System :fire:
 -------------------
 
-## Spark Plugs
+### Spark Plugs
 
-## Spark Plug Wires
+### Spark Plug Wires
 
-## Coil Packs
+### Coil Packs
 
 
 
-### ECU System :computer:
+## ECU System :computer:
 -------------------
 
-## ECU
+### ECU
 
-## ECU Wiring
+### ECU Wiring
 ![alt text](./car-ECU-wiring-diagram/car-ECU-wiring-diagram.svg)
 
-## ECU Tuning
+### ECU Tuning
 
-## ECU Sensors
+### ECU Sensors
 
 
 
