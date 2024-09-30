@@ -35,6 +35,8 @@ The AEM fuel pump is supposed to be fused at 20amps. Therefore the wiring system
 
 ### Flex Fuel Sensor
 
+The flex fuel sensor is not necessary for the build but it is a good idea to have one. The GM flex fuel sensor is a good choice.
+
 
 
 ## Air System :dash:
