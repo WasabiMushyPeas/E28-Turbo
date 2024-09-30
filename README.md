@@ -4,8 +4,96 @@
 - What I know
 - What needs to be done
 - Tips
+(if any of the sections are empty there is most likely information on it in one of the sources)
 
-### Fuel System 
+### Fuel System :fuelpump:
+-------------------
+
+## Fuel Pump
+
+## Fuel Rails/ Lines
+
+## Fuel Pressure Regulator
+
+## Fuel Filter
+
+## Injectors
+
+## Fuel Pump Wiring
+
+## Flex Fuel Sensor
+
+
+
+### Air System :dash:
+-------------------
+
+## Air Filter
+
+## Turbo
+
+## Intercooler
+
+## Wastegate
+
+## Blow Off Valve
+
+## Intake Manifold
+
+## Throttle Body
+
+## MAP Sensor
+
+## IAT Sensor
+
+## TPS Sensor
+
+## Exhaust Manifold
+
+## Downpipe
+
+## Exhaust System
+
+## Boost Controller
+
+## Boost Gauge
+
+## AFR Gauge
+
+## Sensor wiring
+
+
+
+### Spark System :fire:
+-------------------
+
+## Spark Plugs
+
+## Spark Plug Wires
+
+## Coil Packs
+
+
+
+### ECU System :computer:
+-------------------
+
+## ECU
+
+## ECU Wiring
+![alt text](./car-ECU-wiring-diagram/car-ECU-wiring-diagram.svg)
+
+## ECU Tuning
+
+## ECU Sensors
+
+
+
+
+
+
+
+
 
 
 ## Wiring Diagram :bar_chart:
