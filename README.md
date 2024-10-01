@@ -7,7 +7,7 @@
 (if any of the sections are empty there is most likely information on it in one of the sources)
 
 ## Fuel System :fuelpump:
--------------------
+
 
 ### Fuel Pump
 
@@ -40,7 +40,7 @@ The flex fuel sensor is not necessary for the build but it is a good idea to hav
 
 
 ## Air System :dash:
--------------------
+
 
 ### Air Filter
 
@@ -113,7 +113,7 @@ The AEM Air/Fuel Ratio Gauge is a good choice for this build.
 
 
 ## Spark System :fire:
--------------------
+
 
 ### Spark Plugs
 
@@ -130,7 +130,7 @@ LS ENA coil packs are a good choice for this build.
 
 
 ## ECU System :computer:
--------------------
+
 
 ### ECU
 
