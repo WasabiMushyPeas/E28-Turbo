@@ -149,12 +149,6 @@ Some sensors that have not been mentioned in the other sections are the CLT Cran
 
 
 
-
-
-## Wiring Diagram :bar_chart:
-![alt text](./car-ECU-wiring-diagram/car-ECU-wiring-diagram.svg)
-
-
 # Parts :hammer_and_wrench:
 
 ## Turbo Supplies :dash:
