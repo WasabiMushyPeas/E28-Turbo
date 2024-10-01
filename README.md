@@ -44,13 +44,21 @@ The flex fuel sensor is not necessary for the build but it is a good idea to hav
 
 ### Air Filter
 
+The Air Filter I will use is the K&N 3" cone filter. This filter is capable of supporting the target power. The air filter will be placed behind the driver side fog light (as seen in dodge charger hellcat).
+
 ### Turbo
+
+The ideal turbo size would be a 67mm turbine with a 70mm compressor. The closest Borg Warner turbo is the BorgWarner Airwerks S257SX-E (7670)
 
 ### Intercooler
 
 ### Wastegate
 
 ### Blow Off Valve
+
+Using a blow off valve is necessary but in this build I will not be using one.
+
+### Piping
 
 ### Intake Manifold
 
@@ -64,15 +72,23 @@ The flex fuel sensor is not necessary for the build but it is a good idea to hav
 
 ### Exhaust Manifold
 
+There are premade exhaust (cast exhaust manifolds from e28 goodies) manifolds that fit the M30 engine. However I will be making my own exhaust manifold.
+
 ### Downpipe
 
+The downpipe will be 3" and will be made by me.
+
 ### Exhaust System
+
+The exhaust system will be 3" and will be made by me.
 
 ### Boost Controller
 
 ### Boost Gauge
 
 ### AFR Gauge
+
+The AEM Air/Fuel Ratio Gauge is a good choice for this build.
 
 ### Sensor wiring
 
