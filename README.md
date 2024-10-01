@@ -158,6 +158,13 @@ Some sensors that have not been mentioned in the other sections are the CLT Cran
 # Parts :hammer_and_wrench:
 
 ## Turbo Supplies :dash:
+| Name                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Price  |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| [maXpeedingrods Intercooler](https://www.amazon.com/gp/product/B09M5VYMZG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B079WK1K1W&linkCode=as2&tag=turbineresear-20&linkId=2d7bbb943a6d435586156dc825139a8a&th=1) | $113 |
+| [BorgWarner Airwerks S257SX-E (7670)](https://www.full-race.com/borgwarner-airwerks-s257sx-e-57mm-enhanced-s200sx-e-7670-turbo)| $845.52 |
+| [Summit Racing](https://www.summitracing.com/parts/sum-260072?seid=srese1&gclid=CjwKCAjwxY-3BhAuEiwAu7Y6s68l7Mmk28j4K66p9dmwRYACYmAlvaX7hfwMnYjQOpiny5VPhz1K_xoC53UQAvD_BwE) | $100.99 |
+| [NGR Manual Boost Controller](https://www.ebay.com/itm/176407478564?chn=ps&norover=1&mkevt=1&mkrid=711-166974-028196-7&mkcid=2&mkscid=101&itemid=176407478564&targetid=2275367127251&device=c&mktype=pla&googleloc=9191265&poi=&campaignid=21462582162&mkgroupid=166396686164&rlsatarget=pla-2275367127251&abcId=9473387&merchantid=115052582&geoid=9191265&gad_source=1&gclid=CjwKCAjwooq3BhB3EiwAYqYoElQkLnsTwCdY0Kc820Vpd9dwFAaiDH2lI_I2vTZBQjRiK2zPzITzGBoCN2wQAvD_BwE) | $59.99  |
+| [K&N](https://www.knfilters.com/rg-1001rd-universal-clamp-on-air-filter) | $39.99  |
 
 
 ## Wiring Supplies :electric_plug:
