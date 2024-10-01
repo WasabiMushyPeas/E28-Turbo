@@ -149,7 +149,7 @@ Some sensors that have not been mentioned in the other sections are the CLT Cran
 
 
 
-# Parts :hammer_and_wrench:
+# Parts :hammer_and_wrench: (Current Total: $3,300)
 
 ## Turbo Supplies :dash:
 | Name | Price  |
