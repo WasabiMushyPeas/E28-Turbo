@@ -141,7 +141,7 @@ The stock ECU is not capable of supporting the target power. I will be using the
 
 ### ECU Tuning
 
-The ECU will be tuned by me using TunerStudio. See the [Tuning]() section for more information.
+The ECU will be tuned by me using TunerStudio. See the [Tuning](https://github.com/WasabiMushyPeas/E28-Turbo/tree/main/car-ECU-Tune) section for more information.
 
 ### ECU Sensors
 
