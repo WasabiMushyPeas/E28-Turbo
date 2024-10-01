@@ -159,7 +159,7 @@ Some sensors that have not been mentioned in the other sections are the CLT Cran
 
 ## Turbo Supplies :dash:
 | Name | Price  |
-| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
+| --- | --- | 
 | [maXpeedingrods Intercooler](https://www.amazon.com/gp/product/B09M5VYMZG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B079WK1K1W&linkCode=as2&tag=turbineresear-20&linkId=2d7bbb943a6d435586156dc825139a8a&th=1) | $113 |
 | [BorgWarner Airwerks S257SX-E (7670)](https://www.full-race.com/borgwarner-airwerks-s257sx-e-57mm-enhanced-s200sx-e-7670-turbo)| $845.52 |
 | [Summit Racing](https://www.summitracing.com/parts/sum-260072?seid=srese1&gclid=CjwKCAjwxY-3BhAuEiwAu7Y6s68l7Mmk28j4K66p9dmwRYACYmAlvaX7hfwMnYjQOpiny5VPhz1K_xoC53UQAvD_BwE) | $100.99 |
@@ -168,8 +168,8 @@ Some sensors that have not been mentioned in the other sections are the CLT Cran
 
 
 ## Wiring Supplies :electric_plug:
-| Name                      |         Price                                                                                                                                                                                                                                                                                                                      |      
-| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
+| Name | Price |      
+| --- | --- | 
 | [Fuse and Relay Box](https://www.waytekwire.com/product/eaton-s-bussmann-series-15305-4-0-4-rtmr-mini-fuse) | $32.09 |
 | [16-14 awg terminal female](https://www.waytekwire.com/product/aptiv-12129409-metri-pack-280-series-16-14-ga) | $7.07 |
 | [14-12 awg terminal female](https://www.waytekwire.com/product/aptiv-12110845-metri-pack-280-series-14-12-ga) | $6.96 |
@@ -189,14 +189,23 @@ Some sensors that have not been mentioned in the other sections are the CLT Cran
 | [Corrugated 0.250" 100'](https://www.waytekwire.com/catalog/wire-coverings-and-protection/corrugated-loom/corrugated-loom-lcn-250-100-split-nylon) | $20.44  |
 
 ## Sensors :thermometer:
-| Name                          |     Price                                                                                                                                                                                                                                                                                                                                                                  |
-| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
+| Name | Price  |
+| --- | --- | 
 | [AEM Air/Fuel Ratio Gauge](https://www.amazon.com/gp/product/B00N3VGPYS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00N3VGPYS&linkCode=as2&tag=turbineresear-20&linkId=0f8aafe35cbc76ee3b5ca863b6cf572a&th=1) | $184.95 |
 | [GM 3 bar MAP sensor](https://www.diyautotune.com/product/gm-3-bar-map-sensor/) | $89.99 |
 | [GM Open Element Sensor](https://www.amazon.com/Intake-Temperature-Repl-OE-25036751-25037225/dp/B07THSTNN9) | $16.99  |
 | [GM Closed Element CLT](https://www.diyautotune.com/product/gm-closed-element-clt-iat-sensor/) | $23.99 |
 | [Bosh TPS Sensor](https://www.ebay.com/itm/305035638163) | $50 |
 | [GM Flex Fuel Sensor](https://www.amazon.com/ACDelco-13577379-Original-Equipment-Sensor/dp/B01GQR9ETI) + [Pigtail](https://www.amazon.com/Connector-Pigtail-Plastic-Composition-Ethanol/dp/B07115TSNK/ref=pd_bxgy_d_sccl_1/147-4181421-9837242?pd_rd_w=91Egl&content-id=amzn1.sym.f7fa8b58-6436-47b8-8741-9e90c231669e&pf_rd_p=f7fa8b58-6436-47b8-8741-9e90c231669e&pf_rd_r=JKJY1985SPHVHDNZY8QE&pd_rd_wg=9QX1S&pd_rd_r=37bca7b8-a9e5-4443-a583-21a26f041f9d&pd_rd_i=B07115TSNK&psc=1) | $102.42 |
+
+## Misc :package:
+| Name  | price  |
+| --- | --- | 
+| [80lb Siemens Deka](https://www.ebay.com/itm/204962182070?chn=ps&_trkparms=ispr%3D1&amdata=enc%3A12CO26Z_gSoS5RIsUfStKcA22&norover=1&mkevt=1&mkrid=711-117182-37290-0&mkcid=2&mkscid=101&itemid=204962182070&targetid=2374270860207&device=c&mktype=pla&googleloc=9032016&poi=&campaignid=21214301188&mkgroupid=161029916821&rlsatarget=pla-2374270860207&abcId=9407524&merchantid=5326329245&gad_source=1&gclid=CjwKCAjwxY-3BhAuEiwAu7Y6s9YfhyVqujowXrsGmcFyPHqTs2q8KSkARbqqndQRYko8RpruyCGGVxoCFJEQAvD_BwE) | $149.98 |
+| [ARP Head Studs](https://www.amazon.com/ARP-201-4602-Head-Stud-Kit/dp/B002ENQGVS) | $216.99 |
+| [LS ENA coils](https://amzn.to/3rr1SGq) | $116.99 |
+| [AEM 340LPH E85](https://www.amazon.com/gp/product/B016MWXRK4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B016MWXRK4&linkCode=as2&tag=turbineresear-20&linkId=c629e118a608dcf17e5da6b49dc90a0a) | $130.64 |
+| [Ring Light](https://www.amazon.com/Qasim-White-Circle-Headlight-Plastic/dp/B078Y6MFNB/ref=sr_1_4?dib=eyJ2IjoiMSJ9.WRGZjMj_BdoU9jDn0RiniXzWEf2PVnVt_smCLPuT77YvLiijE3fjSANHNz8y6KE9lWc0aql5NqQvQ0XbWxRgRuYmGbSzKKwRc352soSNczF_8fe8e3Xe2hAAG5XIXo7pHEY_eL33a9vttrRAUKkkUs4ePhZVVOyeheyBOBOneyF3FYYQdNExTe0QiHCbeatVE-g0DbtjuJJZFIis-R5hode9wj0eEJqF__K51Cdf9hVOh9ltJR1WIbEOrvD1_FQk-kN79SA20IHLdn2I91b7gX3YRFryysLiqWoR1Uk4fDQ.dm0hZ5OOuytYzyAklIXmKaRfMCuKQq7qDWuO5M6VyUQ&dib_tag=se&keywords=halo%2Blights%2Bfor%2Bcars&qid=1726275057&sr=8-4&th=1) | $11.99 |
 
 
 
