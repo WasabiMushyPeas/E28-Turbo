@@ -11,15 +11,15 @@
 
 ### Fuel Pump
 
-The Stock Fuel Pump in an E28 535i can comfortably sustain ~110lph at 43.5psi. Therefore the stock fuel pump can support ~265hp. In this build our target is about 500whp. To achieve this we will need to upgrade the fuel pump. I have chosen the AEM 340lhp E85 fuel pump as the conversion is not too hard and the pump is capable of supporting over 500whp (plus it supports E85 fuel).
+The Stock Fuel Pump in an E28 535i can comfortably sustain ~110lph at 43.5psi. Therefore the stock fuel pump can support ~265hp. In this build our target is about 500whp. To achieve this we will need to upgrade the fuel pump. I have chosen the Walbro 450lph E85 pump. There is also the AEM 340lhp E85 fuel pump as the which is capable of supporting over 500whp (plus it supports E85 fuel).
 
 ### Fuel Rails/ Lines
 
-The stock fuel lines and rails are capable of supporting the target power. However replacing the fuel lines with newer hoses is a good idea.
+The stock fuel lines and rails (5/16ths) are capable of supporting the target power. However replacing the fuel lines with newer hoses is a good idea you can replace it with contitech insta grip.
 
 ### Fuel Pressure Regulator
 
-The stock fuel pressure regulator is capable of supporting the target power.
+The stock fuel pressure regulator is capable of supporting the target power. However it needs to be referenced to the manifold.
 
 ### Fuel Filter
 
@@ -31,11 +31,13 @@ The stock injectors are not capable of supporting the target power. I have chose
 
 ### Fuel Pump Wiring
 
-The AEM fuel pump is supposed to be fused at 20amps. Therefore the wiring system will need to be upgraded to support this. 12awg wire is recommended along with at least a 20amp relay (I will use a 35amp relay).
+The AEM or Walbro fuel pump is supposed to be fused at 20amps. Therefore the wiring system will need to be upgraded to support this. 12awg wire is recommended along with at least a 20amp relay (I will use a 35amp relay).
 
 ### Flex Fuel Sensor
 
-The flex fuel sensor is not necessary for the build but it is a good idea to have one. The GM flex fuel sensor is a good choice.
+The flex fuel sensor is not necessary for the build but it is a good idea to have one if you are going to run E85. The GM flex fuel sensor is a good choice.
+
+### Fuel Mixtures
 
 
 
@@ -48,7 +50,15 @@ The Air Filter I will use is the K&N 3" cone filter. This filter is capable of s
 
 ### Turbo
 
-The ideal turbo size would be a 67mm turbine with a 70mm compressor. The closest Borg Warner turbo is the BorgWarner Airwerks S257SX-E (7670)
+The ideal turbo size would be a 67mm turbine with a 60mm compressor (whol set H351 off a dodge cummins). The closest Borg Warner turbo is the BorgWarner Airwerks S257SX-E (7670)
+
+### Turbo Oil Feed and Return
+
+The oil feed can be taken from the oil pressure sensor port. The oil return can be taken from the oil pan where the 7series turbo oil return is.
+
+### Back Pressure
+
+A back pressure sensor is recommended. 
 
 ### Intercooler
 
@@ -56,7 +66,7 @@ For this build I will be using a cheap maxpeedingrods intercooler. The intercool
 
 ### Wastegate
 
-A Quality Wastegate is recommended. The I am using the SUM-260072 from summit racing.
+A Quality Wastegate is recommended. The I am using the SUM-260072 from summit racing. A good starting point for the wastegate spring is 14psi.
 
 ### Blow Off Valve
 
@@ -100,7 +110,7 @@ The exhaust system will be 3" and will be made by me.
 
 ### Boost Controller
 
-The boost controller will be a manual boost controller.
+The boost controller will be a manual boost controller. However an electronic boost controller is a good choice you can use something like the Mac boost solenoid.
 
 ### Boost Gauge
 
@@ -125,7 +135,39 @@ LS coil wires are a good choice for this build.
 
 ### Coil Packs
 
-LS ENA coil packs are a good choice for this build.
+LS D585 coil packs are a good choice for this build.
+
+:::warning if you over dwell the coils they can fire off randomly the dwell needs to be below 3.5ms:::
+
+## Misc :package:
+
+### Head Studs
+
+ARP Head Studs are a good choice for this build.
+
+### Crank Position Sensor
+
+Hall effect sensor from diyautotune is a good choice for this build.
+
+### Motor Mounts
+
+UHMW motor mounts are a good choice for this build.
+
+### Lower Control Arms
+
+E34 Lower Control Arms are a good choice for this build because they are a drop in replacement.
+
+### Steering Box Pin
+
+There is a steering box pin that is known to break on the e28. It is a good idea to replace it with a stronger one.
+
+### Clutch
+
+Sachs 765 pressure plate and a 6 puck or M5 E34 disc are a good choice for this build. (Condor Speed Bat or Garagistic delrin bat shift knob. hard mounting the shifter is a good idea)
+
+
+
+
 
 
 
@@ -143,9 +185,11 @@ The stock ECU is not capable of supporting the target power. I will be using the
 
 The ECU will be tuned by me using TunerStudio. See the [Tuning](https://github.com/WasabiMushyPeas/E28-Turbo/tree/main/car-ECU-Tune) section for more information.
 
+Here are some notes:
+
 ### ECU Sensors
 
-Some sensors that have not been mentioned in the other sections are the CLT Crank Position Sensor. The GM Closed Element CLT is a good choice for this build. The GM Crank Position Sensor is a good choice for this build.
+Some sensors that have not been mentioned in the other sections are the CLT Crank Position Sensor. The GM Closed Element CLT is a good choice for this build however the stock E38/E30 CLT works too. The GM Crank Position Sensor is a good choice for this build.
 
 
 
