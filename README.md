@@ -52,7 +52,11 @@ The ideal turbo size would be a 67mm turbine with a 70mm compressor. The closest
 
 ### Intercooler
 
+For this build I will be using a cheap maxpeedingrods intercooler. The intercooler will be placed in front of the radiator.
+
 ### Wastegate
+
+A Quality Wastegate is recommended. The I am using the SUM-260072 from summit racing.
 
 ### Blow Off Valve
 
@@ -60,15 +64,27 @@ Using a blow off valve is necessary but in this build I will not be using one.
 
 ### Piping
 
+The piping will be 3" and will be made by me.
+
 ### Intake Manifold
+
+You can use the stock intake manifold.
 
 ### Throttle Body
 
+The stock throttle body is capable of supporting the target power. However some modifications may be needed to add a TPS.
+
 ### MAP Sensor
+
+The GM 3 bar MAP sensor is a good choice for this build.
 
 ### IAT Sensor
 
+The GM Open Element Sensor is a good choice for this build.
+
 ### TPS Sensor
+
+The Bosh E34 TPS sensor is a good choice for this build.
 
 ### Exhaust Manifold
 
@@ -84,13 +100,15 @@ The exhaust system will be 3" and will be made by me.
 
 ### Boost Controller
 
+The boost controller will be a manual boost controller.
+
 ### Boost Gauge
+
+An analog boost gauge is a good choice for this build.
 
 ### AFR Gauge
 
 The AEM Air/Fuel Ratio Gauge is a good choice for this build.
-
-### Sensor wiring
 
 
 
@@ -99,9 +117,15 @@ The AEM Air/Fuel Ratio Gauge is a good choice for this build.
 
 ### Spark Plugs
 
+Unknown
+
 ### Spark Plug Wires
 
+LS coil wires are a good choice for this build.
+
 ### Coil Packs
+
+LS ENA coil packs are a good choice for this build.
 
 
 
@@ -110,17 +134,18 @@ The AEM Air/Fuel Ratio Gauge is a good choice for this build.
 
 ### ECU
 
+The stock ECU is not capable of supporting the target power. I will be using the Megasquirt 3 ECU, specifically the MS3 Gold Lite from EFI Source.
+
 ### ECU Wiring
 ![alt text](./car-ECU-wiring-diagram/car-ECU-wiring-diagram.svg)
 
 ### ECU Tuning
 
+The ECU will be tuned by me using TunerStudio.
+
 ### ECU Sensors
 
-
-
-
-
+Some sensors that have not been mentioned in the other sections are the CLT Crank Position Sensor. The GM Closed Element CLT is a good choice for this build. The GM Crank Position Sensor is a good choice for this build.
 
 
 
@@ -161,7 +186,6 @@ The AEM Air/Fuel Ratio Gauge is a good choice for this build.
 | [Bosh TPS Sensor](https://www.ebay.com/itm/305035638163) | $50 |
 | [GM Flex Fuel Sensor](https://www.amazon.com/ACDelco-13577379-Original-Equipment-Sensor/dp/B01GQR9ETI) + [Pigtail](https://www.amazon.com/Connector-Pigtail-Plastic-Composition-Ethanol/dp/B07115TSNK/ref=pd_bxgy_d_sccl_1/147-4181421-9837242?pd_rd_w=91Egl&content-id=amzn1.sym.f7fa8b58-6436-47b8-8741-9e90c231669e&pf_rd_p=f7fa8b58-6436-47b8-8741-9e90c231669e&pf_rd_r=JKJY1985SPHVHDNZY8QE&pd_rd_wg=9QX1S&pd_rd_r=37bca7b8-a9e5-4443-a583-21a26f041f9d&pd_rd_i=B07115TSNK&psc=1) | $102.42 |
 
-## Injectors
 
 
 
