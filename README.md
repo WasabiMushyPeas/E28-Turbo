@@ -183,13 +183,11 @@ The stock ECU is not capable of supporting the target power. I will be using the
 
 ### ECU Tuning
 
-The ECU will be tuned by me using TunerStudio. See the [Tuning](https://github.com/WasabiMushyPeas/E28-Turbo/tree/main/car-ECU-Tune) section for more information.
-
-Here are some notes:
+The ECU will be tuned by me using TunerStudio. See the [Tuning](https://github.com/WasabiMushyPeas/E28-Turbo/tree/main/car-ECU-Tune) or the [tuning file]() section for more information.
 
 ### ECU Sensors
 
-Some sensors that have not been mentioned in the other sections are the CLT Crank Position Sensor. The GM Closed Element CLT is a good choice for this build however the stock E38/E30 CLT works too. The GM Crank Position Sensor is a good choice for this build.
+Some sensors that have not been mentioned in the other sections are the CLT Crank Position Sensor. The GM Closed Element CLT is a good choice for this build however the stock E38/E30 CLT works too. 
 
 
 
@@ -257,3 +255,17 @@ Some sensors that have not been mentioned in the other sections are the CLT Cran
 - [megasquirt basics](https://youtu.be/6LTwtQDOoRA?si=BNSUtUBE0bgF90Mo)
 - [tune megasquirt](https://youtu.be/9ALDDK5u5Q8?si=wl1CMeRQ-DNlSQ2k)
 - [turbo an e28 myE28](https://www.mye28.com/viewtopic.php?t=50038)
+
+# Tuning :wrench:
+
+## Boost
+
+## Fuel
+
+## Timing
+
+## Idle
+
+## Misc
+
+- The engine redlines at 6,500rpm however the turbo should be spooled by 4,000rpm. Therefore the turbo should be spooled by 4,000rpm and the engine should be making full power by 5,500rpm. so the redline can be set to 6,000rpm.
