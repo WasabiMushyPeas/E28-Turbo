@@ -196,7 +196,7 @@ Some sensors that have not been mentioned in the other sections are the CLT Cran
 
 
 
-# Parts :hammer_and_wrench: (Current Total: $3,300)
+# Parts :hammer_and_wrench: (Current Total: $3,900)
 
 ## Turbo Supplies :dash:
 | Name | Price  |
@@ -245,8 +245,14 @@ Some sensors that have not been mentioned in the other sections are the CLT Cran
 | [80lb Siemens Deka](https://www.ebay.com/itm/204962182070?chn=ps&_trkparms=ispr%3D1&amdata=enc%3A12CO26Z_gSoS5RIsUfStKcA22&norover=1&mkevt=1&mkrid=711-117182-37290-0&mkcid=2&mkscid=101&itemid=204962182070&targetid=2374270860207&device=c&mktype=pla&googleloc=9032016&poi=&campaignid=21214301188&mkgroupid=161029916821&rlsatarget=pla-2374270860207&abcId=9407524&merchantid=5326329245&gad_source=1&gclid=CjwKCAjwxY-3BhAuEiwAu7Y6s9YfhyVqujowXrsGmcFyPHqTs2q8KSkARbqqndQRYko8RpruyCGGVxoCFJEQAvD_BwE) | $149.98 |
 | [ARP Head Studs](https://www.amazon.com/ARP-201-4602-Head-Stud-Kit/dp/B002ENQGVS) | $216.99 |
 | [LS ENA coils](https://amzn.to/3rr1SGq) | $116.99 |
-| [AEM 340LPH E85](https://www.amazon.com/gp/product/B016MWXRK4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B016MWXRK4&linkCode=as2&tag=turbineresear-20&linkId=c629e118a608dcf17e5da6b49dc90a0a) | $130.64 |
+| [Walbro 450lph](https://www.summitracing.com/parts/vpn-f90000274?seid=srese1&ppckw=pmax-stock-replacement&gclid=Cj0KCQjw3vO3BhCqARIsAEWblcBFkoitlQ8aPTN59R1y90lb2coq3u4Qnj707qFZB56t0oLiGIZePgAaAm_MEALw_wcB) | $110.99 |
 | [Ring Light](https://www.amazon.com/Qasim-White-Circle-Headlight-Plastic/dp/B078Y6MFNB/ref=sr_1_4?dib=eyJ2IjoiMSJ9.WRGZjMj_BdoU9jDn0RiniXzWEf2PVnVt_smCLPuT77YvLiijE3fjSANHNz8y6KE9lWc0aql5NqQvQ0XbWxRgRuYmGbSzKKwRc352soSNczF_8fe8e3Xe2hAAG5XIXo7pHEY_eL33a9vttrRAUKkkUs4ePhZVVOyeheyBOBOneyF3FYYQdNExTe0QiHCbeatVE-g0DbtjuJJZFIis-R5hode9wj0eEJqF__K51Cdf9hVOh9ltJR1WIbEOrvD1_FQk-kN79SA20IHLdn2I91b7gX3YRFryysLiqWoR1Uk4fDQ.dm0hZ5OOuytYzyAklIXmKaRfMCuKQq7qDWuO5M6VyUQ&dib_tag=se&keywords=halo%2Blights%2Bfor%2Bcars&qid=1726275057&sr=8-4&th=1) | $11.99 |
+| [Sachs 765 Pressure Plate](https://www.speedingparts.com/p/powertrain/clutch-flywheel/pressure-plate/sachs-765-bmw-m5-e34.html) | $431.45 |
+| [E34 Clutch plate](https://www.fcpeuro.com/products/bmw-clutch-friction-disc-m6-m5-1861931034?ads_cmpid=21615270671&ads_adid=165716343825&ads_matchtype=&ads_network=g&ads_creative=710409756405&utm_term=&ads_targetid=pla-297546631617&utm_campaign=&utm_source=adwords&utm_medium=ppc&ttv=2&gad_source=1&gclid=CjwKCAjwgfm3BhBeEiwAFfxrG8yLdu-8YCRsgCZvPU_45RODMutYOuFYQO-KpR1oZGBv4RyBsHTohhoCLTsQAvD_BwE) | $155.99 |
+
+
+
+
 
 
 
