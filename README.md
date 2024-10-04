@@ -1,11 +1,5 @@
 # E28-Turbo :cyclone:
 
-# Info :information_source:
-- What I know
-- What needs to be done
-- Tips
-(if any of the sections are empty there is most likely information on it in one of the sources)
-
 ## Fuel System :fuelpump:
 
 
