@@ -11,6 +11,7 @@ To achieve a goal of 500 wheel horsepower (whp) on an E28 M30B34 engine while ma
 - [ECU System](#ecu-system-computer)
 - [Parts](#parts-hammer_and_wrench-current-total-3900)
 - [Sources](#sources-books)
+- [Tuning](#tuning-wrench)
 
 
 ## Fuel System :fuelpump:
