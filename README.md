@@ -164,7 +164,11 @@ There is a steering box pin that is known to break on the e28. It is a good idea
 
 ### Clutch
 
-Sachs 765 pressure plate and a 6 puck or M5 E34 disc are a good choice for this build. (Condor Speed Bat or Garagistic delrin bat shift knob. hard mounting the shifter is a good idea)
+Sachs 765 pressure plate and a 6 puck or M5 E34 disc are a good choice for this build.
+
+### Shifter
+
+Condor Speed Bat or Garagistic delrin bat shift knob. hard mounting the shifter is also a good idea.
 
 
 
