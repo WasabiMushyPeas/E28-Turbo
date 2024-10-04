@@ -24,9 +24,22 @@ I have chosen the Walbro 450lph E85 pump. There is also the AEM 340lhp E85 fuel 
 > [!NOTE]
 > The Stock Fuel Pump in an E28 535i can comfortably sustain ~110lph at 43.5psi. Therefore the stock fuel pump can support ~265hp.
 
+>[!IMPORTANT]
+> Upgrading the fuel pump wiring is very important.
+
 ### Fuel Rails/ Lines
 
-The stock fuel lines and rails (5/16ths) are capable of supporting the target power. However replacing the fuel lines with newer hoses is a good idea you can replace it with contitech insta grip.
+The stock fuel lines and rails (5/16ths) are capable of supporting the target power. However replacing the fuel lines with newer hoses is a good idea you can replace it with contitech insta grip 300psi hydraulic hose.
+
+> [!Important]
+> Make sure the fuel lines are rated for E85.
+> Putting in a new fuel filter is a good idea.
+> A surge take is not necessary for this build but it is a good idea to have one.
+
+
+> [!TIP]
+> 3/8ths 1/2" fuel lines are cheaper than the 5/16ths fuel lines so you might as well upgrade when replacing the 5/16ths.
+ 
 
 ### Fuel Pressure Regulator
 
@@ -40,6 +53,12 @@ The stock fuel filter is capable of supporting the target power.
 
 The stock injectors are not capable of supporting the target power. I have chosen the siemens deka 80lb injectors as they are capable of supporting over 500whp.
 
+> [!CAUTION]
+> Avoid running the injectors at or above 80% duty cycle.
+
+> [!TIP]
+> Classic BMW injectors are 60mm long and have 14mm o-rings on both ends (60x14x14).
+
 ### Fuel Pump Wiring
 
 The AEM or Walbro fuel pump is supposed to be fused at 20amps. Therefore the wiring system will need to be upgraded to support this. 12awg wire is recommended along with at least a 20amp relay (I will use a 35amp relay).
@@ -49,6 +68,12 @@ The AEM or Walbro fuel pump is supposed to be fused at 20amps. Therefore the wir
 The flex fuel sensor is not necessary for the build but it is a good idea to have one if you are going to run E85. The GM flex fuel sensor is a good choice.
 
 ### Fuel Mixtures
+
+> [!TIP]
+> Ethanol and Methanol are good choices for fuel mixtures.
+
+> [!WARNING]
+> Use Quality fuel.
 
 
 
@@ -63,8 +88,12 @@ The Air Filter I will use is the K&N 3" cone filter. This filter is capable of s
 
 The ideal turbo size would be a 67mm turbine with a 60mm compressor (whol set H351 off a dodge cummins). The closest Borg Warner turbo is the BorgWarner Airwerks S257SX-E (7670).
 
+> [!TIP]
+> The biggest turbine housing offered on your selected turbo is the best choice.
+
 > [!NOTE]
 > The BorgWarner Airwerks S257SX-E (7670) has a max flow rate of 64lb/min and to achieve 600crank horsepower (chp) you need a flow rate of 66lb/min. Therefore the BorgWarner Airwerks S257SX-E (7670) is slightly under powered. However it is small so should spool quickly.
+> You can also use the BorgWarner AirWerks S364SX-E (8780)
 
 ### Turbo Oil Feed and Return
 
@@ -84,6 +113,9 @@ For this build I will be using a cheap maxpeedingrods intercooler. The intercool
 ### Wastegate
 
 A Quality Wastegate is recommended. The I am using the SUM-260072 from summit racing. A good starting point for the wastegate spring is 14psi.
+
+> [!TIP]
+> The wastegate should be placed 45deg to the exhaust flow.
 
 ### Blow Off Valve
 
@@ -151,7 +183,11 @@ The AEM Air/Fuel Ratio Gauge is a good choice for this build.
 
 ### Spark Plugs
 
-Unknown
+NGK BPR7ES #5534 spark plugs are a good choice for this build. You can also use the NGK BPR8ES #3923 spark plugs.
+
+> [!NOTE]
+> Spark plugs should be gapped to around 0.020".
+
 
 ### Spark Plug Wires
 
@@ -161,6 +197,10 @@ LS coil wires are a good choice for this build.
 
 LS D585 coil packs are a good choice for this build.
 
+> [!NOTE]
+> You can pull this coil packs from a chevy V8s from 1999 and up.
+> The wires that are on the coil pack stock will work on this build. However the heat sleeve need to be removed.
+
 > [!CAUTION]
 > If you over dwell the coils they can fire off randomly the dwell needs to be below 3.5ms
 
@@ -169,6 +209,16 @@ LS D585 coil packs are a good choice for this build.
 ### Head Studs
 
 ARP Head Studs are a good choice for this build.
+
+### Head Gasket
+
+The stock head gasket is capable of supporting the target power. However a MLS head gasket is a good choice for this build.
+
+> [!TIP]
+> If you use the stock head gasket it can act as a fuse and blow before the head or another expensive part blows.
+
+> [!IMPORTANT]
+> Block and head should be machined flat.
 
 ### Crank Position Sensor
 
@@ -191,10 +241,23 @@ There is a steering box pin that is known to break on the e28. It is a good idea
 
 ### Clutch
 
-Sachs 765 pressure plate and a 6 puck or M5 E34 disc are a good choice for this build.
+Sachs 765 pressure plate and a 6 puck or M5 E34 disc are a good choice for this build. Sachs 228mm 618 pressure plate and a 6 puck or M5 E34 disc are a good choice for this build.
+
+> [!TIP]
+> If you only want 350whp you can use the a clutch 6 puck 228mm disc and a 228mm pressure plate.
 
 > [!WARNING]
 > The M5 E34 clutch disc is technically not rated to 650ft/lbs of torque. However if you treat the clutch with some sympathy it should be able to handle the power.
+
+### Transmission
+
+The stock transmission is capable of supporting the target power. 
+
+> [!NOTE]
+> The stock transmission is a getrag 260.
+
+> [!TIP]
+> If you want a stronger transmission you can use a ZF5 310 or 320 from an E36/46
 
 ### Shifter
 
@@ -215,6 +278,9 @@ The stock ECU is not capable of supporting the target power. I will be using the
 
 ### ECU Wiring
 ![alt text](./car-ECU-wiring-diagram/car-ECU-wiring-diagram.svg)
+
+> [!NOTE]
+> Rewiring your car is a good idea.
 
 ### ECU Tuning
 
@@ -299,7 +365,13 @@ The ECU will be tuned by me using TunerStudio. See [Tuning](#tuning-wrench) or t
 
 ## Fuel
 
+> [!WARNING]
+> Error on the rich side to keep the engine safe.
+
 ## Timing
+
+> [!WARNING]
+> Try to aim for the least amount of timing that the engine can handle.
 
 ## Idle
 
