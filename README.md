@@ -126,7 +126,7 @@ The downpipe will be 3" and will be made by me.
 The exhaust system will be 3" and will be made by me.
 
 > [!IMPORTANT]
-> The stock catalytic converter is very restrictive and should be replaced with a high flow catalytic converter (or removed...).
+> The stock catalytic converter is very restrictive and should be replaced with a high flow catalytic converter (or removed if your rebellious like me).
 
 ### Boost Controller
 
