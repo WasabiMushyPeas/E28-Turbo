@@ -1,10 +1,17 @@
-<p align="center">
-
 # E28-Turbo :cyclone:
 
 To achieve a goal of 500 wheel horsepower (whp) on an E28 M30B34 engine while maintaining the stock engine block, you’ll need a combination of high-quality turbocharging components, fuel system upgrades for E85 compatibility, and careful tuning. Below is an extended breakdown of the parts and resources required.
 
-</p>
+
+## Table of Contents :book:
+- [Fuel System](#fuel-system-fuelpump)
+- [Air System](#air-system-dash)
+- [Spark System](#spark-system-fire)
+- [Misc](#misc-package)
+- [ECU System](#ecu-system-computer)
+- [Parts](#parts-hammer_and_wrench-current-total-3900)
+- [Sources](#sources-books)
+
 
 ## Fuel System :fuelpump:
 
