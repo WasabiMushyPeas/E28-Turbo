@@ -344,21 +344,6 @@ The ECU will be tuned by me using TunerStudio. See [Tuning](#tuning-wrench) or t
 
 
 
-
-
-
-
-
-## Sources :books:
-
-- [Turbo my car Sheets](https://docs.google.com/spreadsheets/d/1L-gm92k8GjX_CAtG5Tr8l-kkGmf6Y0_LVqK74C0jl5A/edit?usp=sharing)
-- [Tips For Turbo Doc](https://docs.google.com/document/d/1tCY4XEPRH73pGDfh2RHCs6wGMogO4zm7vlCZIpCkT3s/edit?usp=sharing)
-- [e28 turbine research](https://youtube.com/playlist?list=PLMjPIiNtOwgkLDpK1UCV_LkQOiv-6YodZ&si=10aHMjlBm92FTnhA)
-- [rewire your car](https://www.youtube.com/watch?v=pSXv8RHa22I)
-- [megasquirt basics](https://youtu.be/6LTwtQDOoRA?si=BNSUtUBE0bgF90Mo)
-- [tune megasquirt](https://youtu.be/9ALDDK5u5Q8?si=wl1CMeRQ-DNlSQ2k)
-- [turbo an e28 myE28](https://www.mye28.com/viewtopic.php?t=50038)
-
 # Tuning :wrench:
 
 ## Boost
@@ -386,5 +371,15 @@ The ECU will be tuned by me using TunerStudio. See [Tuning](#tuning-wrench) or t
 > [!TIP]
 > Try to setup all the safety features in the ECU.
 
+
+## Sources :books:
+
+- [Turbo my car Sheets](https://docs.google.com/spreadsheets/d/1L-gm92k8GjX_CAtG5Tr8l-kkGmf6Y0_LVqK74C0jl5A/edit?usp=sharing)
+- [Tips For Turbo Doc](https://docs.google.com/document/d/1tCY4XEPRH73pGDfh2RHCs6wGMogO4zm7vlCZIpCkT3s/edit?usp=sharing)
+- [e28 turbine research](https://youtube.com/playlist?list=PLMjPIiNtOwgkLDpK1UCV_LkQOiv-6YodZ&si=10aHMjlBm92FTnhA)
+- [rewire your car](https://www.youtube.com/watch?v=pSXv8RHa22I)
+- [megasquirt basics](https://youtu.be/6LTwtQDOoRA?si=BNSUtUBE0bgF90Mo)
+- [tune megasquirt](https://youtu.be/9ALDDK5u5Q8?si=wl1CMeRQ-DNlSQ2k)
+- [turbo an e28 myE28](https://www.mye28.com/viewtopic.php?t=50038)
 
 [Back to top](#e28-turbo-cyclone)
