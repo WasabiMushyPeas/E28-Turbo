@@ -125,6 +125,9 @@ The downpipe will be 3" and will be made by me.
 
 The exhaust system will be 3" and will be made by me.
 
+> [!IMPORTANT]
+> The stock catalytic converter is very restrictive and should be replaced with a high flow catalytic converter (or removed...).
+
 ### Boost Controller
 
 The boost controller will be a manual boost controller. However an electronic boost controller is a good choice you can use something like the Mac boost solenoid.
@@ -299,8 +302,7 @@ Some sensors that have not been mentioned in the other sections are the CLT Cran
 
 ## Misc
 
-- The engine redlines at 6,500rpm however the turbo should be spooled by 4,000rpm. Therefore the turbo should be spooled by 4,000rpm and the engine should be making full power by 5,500rpm. so the redline can be set to 6,000rpm.
+- The engine redlines at 6,200rpm however the turbo should be spooled by 4,000rpm. Therefore the turbo should be spooled by 4,000rpm and the engine should be making full power by 5,500rpm. so the redline can be set to 6,000rpm.
 
 
 [Back to top](#e28-turbo-cyclone)
-```
