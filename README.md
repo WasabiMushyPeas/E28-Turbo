@@ -174,6 +174,9 @@ ARP Head Studs are a good choice for this build.
 
 Hall effect sensor from diyautotune is a good choice for this build.
 
+> [!NOTE]
+> You can also use a 60-2 trigger wheel and a VR sensor mounted to the harmonic balancer.
+
 ### Motor Mounts
 
 UHMW motor mounts are a good choice for this build.
