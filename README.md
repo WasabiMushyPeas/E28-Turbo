@@ -379,5 +379,12 @@ The ECU will be tuned by me using TunerStudio. See [Tuning](#tuning-wrench) or t
 
 - The engine redlines at 6,200rpm however the turbo should be spooled by 4,000rpm. Therefore the turbo should be spooled by 4,000rpm and the engine should be making full power by 5,500rpm. so the redline can be set to 6,000rpm.
 
+> [WARNING]
+> Attempting to keep torque low at low RPMs (under 4500rpm) is a good idea. 
+
+
+> [!TIP]
+> Try to setup all the safety features in the ECU.
+
 
 [Back to top](#e28-turbo-cyclone)
