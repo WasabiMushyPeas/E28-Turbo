@@ -137,7 +137,8 @@ LS coil wires are a good choice for this build.
 
 LS D585 coil packs are a good choice for this build.
 
-:::warning if you over dwell the coils they can fire off randomly the dwell needs to be below 3.5ms:::
+> [!WARNING]  
+> If you over dwell the coils they can fire off randomly the dwell needs to be below 3.5ms
 
 ## Misc :package:
 
