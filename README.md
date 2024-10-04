@@ -109,6 +109,10 @@ The GM 3 bar MAP sensor is a good choice for this build.
 
 The GM Open Element Sensor is a good choice for this build.
 
+### CLT Sensor
+
+The stock E38/E30 Closed Element CLT is a good choice for this build however the GM CLT works too.
+
 ### TPS Sensor
 
 The Bosh E34 TPS sensor is a good choice for this build.
@@ -212,10 +216,6 @@ The stock ECU is not capable of supporting the target power. I will be using the
 ### ECU Tuning
 
 The ECU will be tuned by me using TunerStudio. See [Tuning](#tuning-wrench) or the [tuning file](https://github.com/WasabiMushyPeas/E28-Turbo/tree/main/car-ECU-Tune) section for more information.
-
-### ECU Sensors
-
-Some sensors that have not been mentioned in the other sections are the CLT Crank Position Sensor. The GM Closed Element CLT is a good choice for this build however the stock E38/E30 CLT works too. 
 
 
 
