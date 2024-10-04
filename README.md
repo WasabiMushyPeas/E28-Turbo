@@ -7,7 +7,10 @@ To achieve a goal of 500 wheel horsepower (whp) on an E28 M30B34 engine while ma
 
 ### Fuel Pump
 
-The Stock Fuel Pump in an E28 535i can comfortably sustain ~110lph at 43.5psi. Therefore the stock fuel pump can support ~265hp. In this build our target is about 500whp. To achieve this we will need to upgrade the fuel pump. I have chosen the Walbro 450lph E85 pump. There is also the AEM 340lhp E85 fuel pump as the which is capable of supporting over 500whp (plus it supports E85 fuel).
+I have chosen the Walbro 450lph E85 pump. There is also the AEM 340lhp E85 fuel pump as the which is capable of supporting over 500whp (plus it supports E85 fuel).
+
+> [!NOTE]
+> The Stock Fuel Pump in an E28 535i can comfortably sustain ~110lph at 43.5psi. Therefore the stock fuel pump can support ~265hp.
 
 ### Fuel Rails/ Lines
 
@@ -46,11 +49,17 @@ The Air Filter I will use is the K&N 3" cone filter. This filter is capable of s
 
 ### Turbo
 
-The ideal turbo size would be a 67mm turbine with a 60mm compressor (whol set H351 off a dodge cummins). The closest Borg Warner turbo is the BorgWarner Airwerks S257SX-E (7670)
+The ideal turbo size would be a 67mm turbine with a 60mm compressor (whol set H351 off a dodge cummins). The closest Borg Warner turbo is the BorgWarner Airwerks S257SX-E (7670).
+
+> [!NOTE]
+> The BorgWarner Airwerks S257SX-E (7670) has a max flow rate of 64lb/min and to achieve 600crank horsepower (chp) you need a flow rate of 66lb/min. Therefore the BorgWarner Airwerks S257SX-E (7670) is slightly under powered. However it is small so should spool quickly.
 
 ### Turbo Oil Feed and Return
 
 The oil feed can be taken from the oil pressure sensor port. The oil return can be taken from the oil pan where the 7series turbo oil return is.
+
+> [!NOTE]
+> The oil return can also be placed directly into the oil pan.
 
 ### Back Pressure
 
@@ -133,7 +142,7 @@ LS coil wires are a good choice for this build.
 
 LS D585 coil packs are a good choice for this build.
 
-> [!WARNING]  
+> [!CAUTION]
 > If you over dwell the coils they can fire off randomly the dwell needs to be below 3.5ms
 
 ## Misc :package:
