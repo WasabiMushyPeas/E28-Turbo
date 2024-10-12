@@ -152,7 +152,7 @@ The stock E38/E30 Closed Element CLT is a good choice for this build however the
 
 ### TPS Sensor
 
-The Bosh E34 TPS sensor is a good choice for this build.
+The Bosh E34 TPS sensor is a good choice for this build. However I found a E32 735i TPS sensor in a junkyard so I will be using that.
 
 ![TPS Bosh E32](./part-pics/20241012-DSC00952.jpg)
 
