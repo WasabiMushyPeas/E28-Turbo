@@ -67,6 +67,8 @@ The AEM or Walbro fuel pump is supposed to be fused at 20amps. Therefore the wir
 
 The flex fuel sensor is not necessary for the build but it is a good idea to have one if you are going to run E85. The GM flex fuel sensor is a good choice.
 
+![Continental Flex Fuel Sensor](./part-pics/PXL_20241012_071610347.jpg)
+
 ### Fuel Mixtures
 
 > [!TIP]
@@ -145,9 +147,13 @@ The GM Open Element Sensor is a good choice for this build.
 
 The stock E38/E30 Closed Element CLT is a good choice for this build however the GM CLT works too.
 
+![CLT Bosh E32](./part-pics/PXL_20241012_071805063.jpg)
+
 ### TPS Sensor
 
 The Bosh E34 TPS sensor is a good choice for this build.
+
+![TPS Bosh E32](./part-pics/PXL_20241012_071455879.jpg)
 
 ### Exhaust Manifold
 
@@ -196,6 +202,8 @@ LS coil wires are a good choice for this build.
 ### Coil Packs
 
 LS D585 coil packs are a good choice for this build.
+
+![LS D585 Coil Packs](./part-pics/PXL_20241012_072031003.jpg)
 
 > [!NOTE]
 > You can pull this coil packs from a chevy V8s from 1999 and up.
@@ -277,7 +285,7 @@ Condor Speed Bat or Garagistic delrin bat shift knob. hard mounting the shifter 
 The stock ECU is not capable of supporting the target power. I will be using the Megasquirt 3 ECU, specifically the MS3 Gold Lite from EFI Source.
 
 ### ECU Wiring
-![alt text](./car-ECU-wiring-diagram/car-ECU-wiring-diagram.svg)
+![Wiring Diagram](./car-ECU-wiring-diagram/car-ECU-wiring-diagram.svg)
 
 > [!NOTE]
 > Rewiring your car is a good idea.
