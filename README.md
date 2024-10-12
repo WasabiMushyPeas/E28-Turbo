@@ -11,6 +11,7 @@ To achieve a goal of 500 wheel horsepower (whp) on an E28 M30B34 engine while ma
 - [ECU System](#ecu-system-computer)
 - [Parts](#parts-hammer_and_wrench-current-total-3900)
 - [Sources](#sources-books)
+- [3D Printed Parts](#3d-printed-parts-printer)
 - [Tuning](#tuning-wrench)
 
 
@@ -350,9 +351,9 @@ The ECU will be tuned by me using TunerStudio. See [Tuning](#tuning-wrench) or t
 | [Sachs 765 Pressure Plate](https://www.speedingparts.com/p/powertrain/clutch-flywheel/pressure-plate/sachs-765-bmw-m5-e34.html) | $431.45 |
 | [E34 Clutch plate](https://www.fcpeuro.com/products/bmw-clutch-friction-disc-m6-m5-1861931034?ads_cmpid=21615270671&ads_adid=165716343825&ads_matchtype=&ads_network=g&ads_creative=710409756405&utm_term=&ads_targetid=pla-297546631617&utm_campaign=&utm_source=adwords&utm_medium=ppc&ttv=2&gad_source=1&gclid=CjwKCAjwgfm3BhBeEiwAFfxrG8yLdu-8YCRsgCZvPU_45RODMutYOuFYQO-KpR1oZGBv4RyBsHTohhoCLTsQAvD_BwE) | $155.99 |
 
-## 3D Printed Parts :printer:
+# 3D Printed Parts :printer:
 
-### E32 735i TPS Wiring Bracket
+### E32 735i TPS Wiring Connector
 
 The E32 735i TPS Wiring Bracket is a cap that acts a male connector for the TPS sensor. The bracket is 3D printed and is a good choice for this build. See the [3D Printed Parts](https://github.com/WasabiMushyPeas/E28-Turbo/tree/main/3D-printed-parts) for the files.
 
