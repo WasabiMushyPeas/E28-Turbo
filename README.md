@@ -360,12 +360,27 @@ The ECU will be tuned by me using TunerStudio. See [Tuning](#tuning-wrench) or t
 
 ## Idle
 
-## Misc
+## Rev Limiter
 
-- The engine redlines at 6,200rpm however the turbo should be spooled by 4,000rpm. Therefore the turbo should be spooled by 4,000rpm and the engine should be making full power by 5,500rpm. so the redline can be set to 6,000rpm.
+- The revs will be limited by controlling the fuel and spark. The rev hard limiter will be set to 6,200rpm.
+
+- The soft rev limiter will be set to 275 ie 5,925rpm.
+
+- The engine redlines at 6,200rpm however the turbo should be spooled by 4,000rpm. Therefore the turbo should be spooled by 4,000rpm and the engine should be making full power by 5,500rpm. so the redline can be set to 6,200rpm.
+
+> [!NOTE]
+> Coolant Rev Limiter is a good idea. (220F is a good temperature limit)
+> Fuel cutting is the softest rev limiter (used in OEM cars).
+
+> [!IMPORTANT]
+> Spark cut makes flames and bangs (For more flames give more timing retard).
 
 > [!WARNING]
 > Attempting to keep torque low at low RPMs (under 4500rpm) is a good idea. 
+
+## Misc
+
+
 
 
 > [!TIP]
