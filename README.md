@@ -368,7 +368,9 @@ The ECU will be tuned by me using TunerStudio. See [Tuning](#tuning-wrench) or t
 
 The E32 735i TPS Wiring Bracket is a cap that acts a male connector for the TPS sensor. The bracket is 3D printed and is a good choice for this build. See the [3D Printed Parts](https://github.com/WasabiMushyPeas/E28-Turbo/tree/main/3D-printed-parts) for the files.
 
-![TPS Bracket](./part-pics/E32-M30-735i-535i-TPS-Sensor-0280120406.png)
+| [TPS Female Connectors](https://www.digikey.com/en/products/detail/molex/1731120309/9352234) | $26.08 |
+
+![TPS Connector](./part-pics/E32-M30-735i-535i-TPS-Sensor-0280120406.png)
 
 
 
