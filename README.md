@@ -157,12 +157,12 @@ The Bosh E34 TPS sensor is a good choice for this build. However I found a E32 7
 E32 735i TPS Sensor Pinout:
 
 Pin:
-1, Potentiometer, reference voltage
-2, Potentiometer, ground
-3, Potentiometer, signal
-4, Switch, idle
-5, Switch, WOT
-6, Switch, common ground
+- 1, Potentiometer, reference voltage
+- 2, Potentiometer, ground
+- 3, Potentiometer, signal
+- 4, Switch, idle
+- 5, Switch, WOT
+- 6, Switch, common ground
 
 ![TPS Bosh E32](./part-pics/20241012-DSC00952.jpg)
 
