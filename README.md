@@ -156,7 +156,6 @@ The Bosh E34 TPS sensor is a good choice for this build. However I found a E32 7
 
 E32 735i TPS Sensor Pinout:
 
-Pin:
 - 1, Potentiometer, reference voltage
 - 2, Potentiometer, ground
 - 3, Potentiometer, signal
@@ -315,7 +314,7 @@ The ECU will be tuned by me using TunerStudio. See [Tuning](#tuning-wrench) or t
 | [maXpeedingrods Intercooler](https://www.amazon.com/gp/product/B09M5VYMZG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B079WK1K1W&linkCode=as2&tag=turbineresear-20&linkId=2d7bbb943a6d435586156dc825139a8a&th=1) | $113 |
 | [BorgWarner Airwerks S257SX-E (7670)](https://www.full-race.com/borgwarner-airwerks-s257sx-e-57mm-enhanced-s200sx-e-7670-turbo)| $845.52 |
 | [Summit Racing](https://www.summitracing.com/parts/sum-260072?seid=srese1&gclid=CjwKCAjwxY-3BhAuEiwAu7Y6s68l7Mmk28j4K66p9dmwRYACYmAlvaX7hfwMnYjQOpiny5VPhz1K_xoC53UQAvD_BwE) | $100.99 |
-| [NGR Manual Boost Controller](https://www.ebay.com/itm/176407478564?chn=ps&norover=1&mkevt=1&mkrid=711-166974-028196-7&mkcid=2&mkscid=101&itemid=176407478564&targetid=2275367127251&device=c&mktype=pla&googleloc=9191265&poi=&campaignid=21462582162&mkgroupid=166396686164&rlsatarget=pla-2275367127251&abcId=9473387&merchantid=115052582&geoid=9191265&gad_source=1&gclid=CjwKCAjwooq3BhB3EiwAYqYoElQkLnsTwCdY0Kc820Vpd9dwFAaiDH2lI_I2vTZBQjRiK2zPzITzGBoCN2wQAvD_BwE) | $59.99  |
+| [MAC 3 Port Electronic Boost Control](https://www.ebay.com/itm/176407478564?chn=ps&norover=1&mkevt=1&mkrid=711-166974-028196-7&mkcid=2&mkscid=101&itemid=176407478564&targetid=2275367127251&device=c&mktype=pla&googleloc=9191265&poi=&campaignid=21462582162&mkgroupid=166396686164&rlsatarget=pla-2275367127251&abcId=9473387&merchantid=115052582&geoid=9191265&gad_source=1&gclid=CjwKCAjwooq3BhB3EiwAYqYoElQkLnsTwCdY0Kc820Vpd9dwFAaiDH2lI_I2vTZBQjRiK2zPzITzGBoCN2wQAvD_BwE](https://www.ebay.com/itm/404441640723?chn=ps&norover=1&mkevt=1&mkrid=711-166974-028196-7&mkcid=2&mkscid=101&itemid=404441640723&targetid=2304343365564&device=c&mktype=pla&googleloc=9032017&poi=&campaignid=21642866367&mkgroupid=168329006804&rlsatarget=pla-2304343365564&abcId=10007036&merchantid=644206629&geoid=9032017&gad_source=1&gclid=Cj0KCQjwmOm3BhC8ARIsAOSbapVBEmkVecwmRn65hpCuqDEJjgBmyn92sp1Jyzca9kFO-L_owt4rDDYaAiBYEALw_wcB)) | $17.90 |
 | [K&N](https://www.knfilters.com/rg-1001rd-universal-clamp-on-air-filter) | $39.99  |
 
 
