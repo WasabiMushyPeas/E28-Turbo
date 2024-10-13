@@ -347,7 +347,7 @@ The ECU will be tuned by me using TunerStudio. See [Tuning](#tuning-wrench) or t
 | [GM 3 bar MAP sensor](https://www.diyautotune.com/product/gm-3-bar-map-sensor/) | $89.99 |
 | [GM Open Element Sensor](https://www.amazon.com/Intake-Temperature-Repl-OE-25036751-25037225/dp/B07THSTNN9) | $16.99  |
 | [GM Closed Element CLT](https://www.diyautotune.com/product/gm-closed-element-clt-iat-sensor/) | $23.99 |
-| [Bosh TPS Sensor](https://www.ebay.com/itm/305035638163) | $50 |
+| [Bosh TPS Sensor](https://www.ebay.com/itm/305035638163) | $173.31 |
 | [GM Flex Fuel Sensor](https://www.amazon.com/ACDelco-13577379-Original-Equipment-Sensor/dp/B01GQR9ETI) + [Pigtail](https://www.amazon.com/Connector-Pigtail-Plastic-Composition-Ethanol/dp/B07115TSNK/ref=pd_bxgy_d_sccl_1/147-4181421-9837242?pd_rd_w=91Egl&content-id=amzn1.sym.f7fa8b58-6436-47b8-8741-9e90c231669e&pf_rd_p=f7fa8b58-6436-47b8-8741-9e90c231669e&pf_rd_r=JKJY1985SPHVHDNZY8QE&pd_rd_wg=9QX1S&pd_rd_r=37bca7b8-a9e5-4443-a583-21a26f041f9d&pd_rd_i=B07115TSNK&psc=1) | $102.42 |
 
 ## Misc :package:
@@ -360,6 +360,7 @@ The ECU will be tuned by me using TunerStudio. See [Tuning](#tuning-wrench) or t
 | [Ring Light](https://www.amazon.com/Qasim-White-Circle-Headlight-Plastic/dp/B078Y6MFNB/ref=sr_1_4?dib=eyJ2IjoiMSJ9.WRGZjMj_BdoU9jDn0RiniXzWEf2PVnVt_smCLPuT77YvLiijE3fjSANHNz8y6KE9lWc0aql5NqQvQ0XbWxRgRuYmGbSzKKwRc352soSNczF_8fe8e3Xe2hAAG5XIXo7pHEY_eL33a9vttrRAUKkkUs4ePhZVVOyeheyBOBOneyF3FYYQdNExTe0QiHCbeatVE-g0DbtjuJJZFIis-R5hode9wj0eEJqF__K51Cdf9hVOh9ltJR1WIbEOrvD1_FQk-kN79SA20IHLdn2I91b7gX3YRFryysLiqWoR1Uk4fDQ.dm0hZ5OOuytYzyAklIXmKaRfMCuKQq7qDWuO5M6VyUQ&dib_tag=se&keywords=halo%2Blights%2Bfor%2Bcars&qid=1726275057&sr=8-4&th=1) | $11.99 |
 | [Sachs 765 Pressure Plate](https://www.speedingparts.com/p/powertrain/clutch-flywheel/pressure-plate/sachs-765-bmw-m5-e34.html) | $431.45 |
 | [E34 Clutch plate](https://www.fcpeuro.com/products/bmw-clutch-friction-disc-m6-m5-1861931034?ads_cmpid=21615270671&ads_adid=165716343825&ads_matchtype=&ads_network=g&ads_creative=710409756405&utm_term=&ads_targetid=pla-297546631617&utm_campaign=&utm_source=adwords&utm_medium=ppc&ttv=2&gad_source=1&gclid=CjwKCAjwgfm3BhBeEiwAFfxrG8yLdu-8YCRsgCZvPU_45RODMutYOuFYQO-KpR1oZGBv4RyBsHTohhoCLTsQAvD_BwE) | $155.99 |
+| [NGK 5534 Spark Plug](https://www.autozone.com/external-engine/spark-plug/p/ngk-standard-copper-spark-plug-5534/509933_0_0) | $9.98 |
 
 # 3D Printed Parts :printer:
 
