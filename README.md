@@ -10,9 +10,9 @@ To achieve a goal of 500 wheel horsepower (whp) on an E28 M30B34 engine while ma
 - [Misc](#misc-package)
 - [ECU System](#ecu-system-computer)
 - [Parts](#parts-hammer_and_wrench-current-total-3900)
-- [Sources](#sources-books)
 - [3D Printed Parts](#3d-printed-parts-printer)
 - [Tuning](#tuning-wrench)
+- [Sources](#sources-books)
 
 
 ## Fuel System :fuelpump:
@@ -40,7 +40,7 @@ The stock fuel lines and rails (5/16ths) are capable of supporting the target po
 
 > [!TIP]
 > 3/8ths 1/2" fuel lines are cheaper than the 5/16ths fuel lines so you might as well upgrade when replacing the 5/16ths.
- 
+
 
 ### Fuel Pressure Regulator
 
@@ -416,12 +416,12 @@ The E32 735i TPS Wiring Bracket is a cap that acts a male connector for the TPS 
 
 ## Sources :books:
 
-- [Turbo my car Sheets](https://docs.google.com/spreadsheets/d/1L-gm92k8GjX_CAtG5Tr8l-kkGmf6Y0_LVqK74C0jl5A/edit?usp=sharing)
+- [Turbo My Car Sheets](https://docs.google.com/spreadsheets/d/1L-gm92k8GjX_CAtG5Tr8l-kkGmf6Y0_LVqK74C0jl5A/edit?usp=sharing)
 - [Tips For Turbo Doc](https://docs.google.com/document/d/1tCY4XEPRH73pGDfh2RHCs6wGMogO4zm7vlCZIpCkT3s/edit?usp=sharing)
-- [e28 turbine research](https://youtube.com/playlist?list=PLMjPIiNtOwgkLDpK1UCV_LkQOiv-6YodZ&si=10aHMjlBm92FTnhA)
-- [rewire your car](https://www.youtube.com/watch?v=pSXv8RHa22I)
-- [megasquirt basics](https://youtu.be/6LTwtQDOoRA?si=BNSUtUBE0bgF90Mo)
-- [tune megasquirt](https://youtu.be/9ALDDK5u5Q8?si=wl1CMeRQ-DNlSQ2k)
-- [turbo an e28 myE28](https://www.mye28.com/viewtopic.php?t=50038)
+- [E28 Turbine Research](https://youtube.com/playlist?list=PLMjPIiNtOwgkLDpK1UCV_LkQOiv-6YodZ&si=10aHMjlBm92FTnhA)
+- [Rewire Your Car](https://www.youtube.com/watch?v=pSXv8RHa22I)
+- [Megasquirt Basics](https://youtu.be/6LTwtQDOoRA?si=BNSUtUBE0bgF90Mo)
+- [Tune Megasquirt](https://youtu.be/9ALDDK5u5Q8?si=wl1CMeRQ-DNlSQ2k)
+- [Turbo an E28 MyE28](https://www.mye28.com/viewtopic.php?t=50038)
 
 [Back to top](#e28-turbo-cyclone)
