@@ -89,7 +89,7 @@ The Air Filter I will use is the K&N 3" cone filter. This filter is capable of s
 
 ### Turbo
 
-The ideal turbo size would be a 67mm turbine with a 60mm compressor (whol set H351 off a dodge cummins). The closest Borg Warner turbo is the BorgWarner Airwerks S257SX-E (7670).
+The ideal turbo size would be a 67mm turbine with a 60mm compressor (Holset HE341 off a dodge cummins). The closest Borg Warner turbo is the BorgWarner Airwerks S257SX-E (7670).
 
 > [!TIP]
 > The biggest turbine housing offered on your selected turbo is the best choice.
