@@ -409,6 +409,15 @@ The E32 735i TPS Wiring Bracket is a cap that acts a male connector for the TPS 
 > [!WARNING]
 > Attempting to keep torque low at low RPMs (under 4500rpm) is a good idea. 
 
+
+### 2 step launch control
+
+- 2 step launch control is recommended.
+- The launch control is controlled by a button
+- The rev limit I have set is ~XXXXrpm
+
+
+
 ## Misc
 
 
