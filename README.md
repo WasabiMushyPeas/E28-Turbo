@@ -377,6 +377,16 @@ The E32 735i TPS Wiring Bracket is a cap that acts a male connector for the TPS 
 
 # Tuning :wrench:
 
+## Information
+
+- The engine is a M30B34 engine.
+- The engine is a 3.4L inline 6 engine.
+- The engine is a SOHC engine.
+- The engine is a 12 valve engine.
+- The engine is a naturally aspirated engine.
+- To achieve 500whp the car needs to have ~570hp crank horsepower.
+- The air flow rate for 500hp is ~60lb/min.
+
 ## Boost
 
 ## Fuel
