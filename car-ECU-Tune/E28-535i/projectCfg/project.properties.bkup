@@ -1,0 +1,21 @@
+#Project Attributes.
+#TunerStudio by EFI Analytics, Inc
+#Last Saved on: Tue Oct 15 17:18:01 PDT 2024
+#Tue Oct 15 17:18:01 PDT 2024
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+baudRate=115200
+CommSettingPARKERS-X1CommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceCom\ Port=COM1
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+CommSettingPARKERS-X1CommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+CommSettingPARKERS-X1CommDriver.controllerInterfaceId=RS232 Serial Interface
+selectedComDriver=Multi Interface MegaSquirt Driver
+CommSettingPARKERS-X1CommDriver.RS232\ Serial\ InterfaceCom\ Port=COM1
+projectDescription=This tuning project focuses on optimizing the performance of a turbocharged BMW E28 535i, producing 500 wheel horsepower (whp) and running on E85 fuel. The goal is to fine-tune the engine's parameters to achieve maximum power output, efficiency, and drivability. Key areas of focus include adjusting the air-fuel ratio, optimizing boost control, and refining the ignition timing to fully utilize the higher octane and cooling properties of E85. The project aims to strike a balance between peak power, reliability, and smooth throttle response for an engaging driving experience.
+ecuConfigFile=mainController.ini
+useCommonDashboardDir=false
+dashBoardFile=\\dashboard\\\\dashboard.dash
+CommSettingMSCommDriver.controllerInterfaceId=RS232 Serial Interface
+commPort=COM1
+ecuSettings=CAN_COMMANDS_OFF|CYL_12_16_SUPPORT_OFF|EXPANDED_CLT_TEMP|FAHRENHEIT|INTERNAL_LOG_FIELDS_OFF|METRES|MPH|PW_4X_OFF|
+projectName=E28-535i

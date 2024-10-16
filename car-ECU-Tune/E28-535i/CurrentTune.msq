@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<msq xmlns="http://www.msefi.com/:msq">
+<bibliography author="TunerStudio MS Lite! 3.2.03 - EFI Analytics, Inc." tuneComment="" writeDate="Tue Oct 15 17:34:10 PDT 2024"/>
+<versionInfo fileFormat="5.0" firmwareInfo="" nPages="14" signature="MS3 Format 0238.001"/>
+<page>
+<pcVariable name="tsCanId">"CAN ID 0"</pcVariable>
+<pcVariable digits="0" name="rpmhigh" units="rpm">9000.0</pcVariable>
+<pcVariable digits="0" name="rpmwarn" units="rpm">3000.0</pcVariable>
+<pcVariable digits="0" name="rpmdang" units="rpm">5000.0</pcVariable>
+<pcVariable digits="0" name="loadhigh">400.0</pcVariable>
+<pcVariable cols="1" digits="1" name="wueAfrTargetOffset" rows="10" units=":1">
+         -1.5 
+         -1.1 
+         -0.8 
+         -0.6 
+         -0.5 
+         -0.4 
+         -0.3 
+         -0.2 
+         -0.1 
+         0.0 
+      </pcVariable>
+</page>
+<page number="0" size="1024">
+<constant name="nCylinders">"1"</constant>
+<constant name="OverBoostOption">"Both"</constant>
+<constant digits="1" name="OverBoostKpa" units="kPa">175.0</constant>
+<constant digits="1" name="OverBoostHyst" units="kPa">10.0</constant>
+<constant name="baroCorr">"None"</constant>
+<constant digits="2" name="reqFuel" units="ms">0.05</constant>
+<constant digits="0" name="divider">1.0</constant>
+<constant name="nInjectors">"6"</constant>
+<constant name="algorithm">"Speed Density"</constant>
+<constant name="algorithm2">"Disabled"</constant>
+<constant name="IgnAlgorithm">"Speed Density"</constant>
+<constant name="IgnAlgorithm2">"Disabled"</constant>
+<constant name="RevLimOption_retard">"Off"</constant>
+<constant name="RevLimOption_spkcut">"On"</constant>
+<constant name="RevLimCLTbased">"Normal"</constant>
+<constant digits="0" name="RevLimNormal2" units="RPM">6000.0</constant>
+<constant name="knk_option">"Disabled"</constant>
+<constant name="knk_option_an">"On/Off"</constant>
+<constant name="knkDirection">"Low Input"</constant>
+<constant name="knkpull">"None"</constant>
+<constant name="knk_option_wind">"At end"</constant>
+<constant name="knkport">"Tableswitch"</constant>
+<constant name="tsw_pin_f">"Tableswitch"</constant>
+<constant name="OvrRunC">"Off"</constant>
+<constant name="f5_0_tsf">"Off"</constant>
+<constant name="f5_0_tsf_opt">"Hardware"</constant>
+<constant name="f5_0_tss">"Off"</constant>
+<constant name="f5_0_tss_opt">"Hardware"</constant>
+<constant name="launch_opt_retard">"Off"</constant>
+<constant name="launch_opt_bank">"Off"</constant>
+<constant name="launch_opt_on">"Launch"</constant>
+<constant digits="0" name="launch_sft_lim" units="RPM">4000.0</constant>
+<constant digits="2" name="launch_sft_deg" units="deg">-10.0</constant>
+<constant digits="0" name="launch_hrd_lim" units="RPM">4000.0</constant>
+<constant digits="0" name="launch_tps" units="%">80.0</constant>
+<constant name="launchlimopt">"Spark and fuel"</constant>
+<constant name="launch_opt_pins">"Launch in"</constant>
+<constant name="boost_ctl_settings_on">"On"</constant>
+<constant name="boost_ctl_settings_cl">"Open-loop"</constant>
+<constant name="boost_ctl_settings_invert">"Normal"</constant>
+<constant name="boost_ctl_pwm_scale">"1021Hz"</constant>
+<constant name="boost_ctl_pwm">"Mid"</constant>
+</page>
+<page number="1" size="1024">
+<constant name="tc_opt_on">"Off"</constant>
+<constant name="tc_opt_method">"Perfect Run"</constant>
+<constant name="tc_opt_n2o">"On/Off"</constant>
+<constant name="tc_opt_bank">"Bank 1"</constant>
+<constant name="tc_enin">"Launch in"</constant>
+</page>
+<page number="2" size="1024"/>
+<page number="3" size="1024"/>
+<page number="4" size="1024"/>
+<page number="5" size="1024"/>
+<page number="6" size="1024"/>
+<page number="7" size="1024"/>
+<page number="8" size="1024"/>
+<page number="9" size="1024"/>
+<page number="10" size="1024"/>
+<page number="11" size="1024"/>
+<page number="12" size="1024"/>
+<page number="13" size="1024"/>
+<settings Comment="These setting are only used if this msq is opened without a project.">
+<setting name="FAHRENHEIT" value="FAHRENHEIT"/>
+<setting name="MPH" value="MPH"/>
+<setting name="PW_4X_OFF" value="PW_4X_OFF"/>
+<setting name="CYL_12_16_SUPPORT_OFF" value="CYL_12_16_SUPPORT_OFF"/>
+<setting name="EXPANDED_CLT_TEMP" value="EXPANDED_CLT_TEMP"/>
+<setting name="CAN_COMMANDS_OFF" value="CAN_COMMANDS_OFF"/>
+<setting name="METRES" value="METRES"/>
+<setting name="INTERNAL_LOG_FIELDS_OFF" value="INTERNAL_LOG_FIELDS_OFF"/>
+</settings>
+<userComments Comment="These are user comments that can be related to a particular setting or dialog."/>
+</msq>
