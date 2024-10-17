@@ -4882,3 +4882,1550 @@ Please check your Communications Settings.
 10/15/24 8:35:14 PM :Info: closeApp Called
 10/15/24 8:35:14 PM :Info: Finalizing Sensors
 Saved user properties successfully
+Starting on PARKERS-X1
+TunerStudio 3.2.03 started on Wed Oct 16 15:26:50 PDT 2024
+JRE 1.8.0_382, Windows 11 10.0, x86
+java.library.path=./lib
+TunerStudioMS.jar
+Look:Metal, ClassName:'javax.swing.plaf.metal.MetalLookAndFeel'
+Look:Nimbus, ClassName:'javax.swing.plaf.nimbus.NimbusLookAndFeel'
+Look:CDE/Motif, ClassName:'com.sun.java.swing.plaf.motif.MotifLookAndFeel'
+Look:Windows, ClassName:'com.sun.java.swing.plaf.windows.WindowsLookAndFeel'
+Look:Windows Classic, ClassName:'com.sun.java.swing.plaf.windows.WindowsClassicLookAndFeel'
+Look:Night Shade, ClassName:'de.muntjak.tinylookandfeel.TinyLookAndFeel'
+Setting Look & Feel to:javax.swing.plaf.metal.MetalLookAndFeel
+ScrollBar.width
+10/16/24 3:26:50 PM :Debug: no update:defaultFont
+10/16/24 3:26:50 PM :Info: Initializing File Dialogs.
+10/16/24 3:26:50 PM :Debug: hid: 522.17847
+10/16/24 3:26:51 PM :Info: Loading Language Content.
+10/16/24 3:26:54 PM :Debug: Command Non-VolatileBytes for F resolved to: x46                                                                   F
+10/16/24 3:26:54 PM :Debug: Command Non-VolatileBytes for I resolved to: x49                                                                   I
+10/16/24 3:26:54 PM :Debug: Command Non-VolatileBytes for f resolved to: x66                                                                   f
+10/16/24 3:26:54 PM :Info: Initializing Help.
+10/16/24 3:26:54 PM :Info: Initializing Edition Features.
+10/16/24 3:26:54 PM :Info: Initializing App Events.
+10/16/24 3:26:54 PM :Debug: App Name:TunerStudio, appEdition:MS Lite!
+10/16/24 3:26:54 PM :Debug: Dummy Function Factory Created.
+10/16/24 3:26:54 PM :Info: Initializing User Interface
+10/16/24 3:26:54 PM :Warning: Failed to parse tag:width= in line:
+                  <td align="center" background="images/buttonActive.png" height="35" width="166">
+10/16/24 3:26:54 PM :Warning: Failed to parse tag:height= in line:
+                  <td align="center" background="images/buttonActive.png" height="35" width="166">
+10/16/24 3:26:54 PM :Warning: Failed to parse tag:width= in line:
+                  <td align="center" background="images/buttonInactive.png" height="35" width="166">
+10/16/24 3:26:54 PM :Warning: Failed to parse tag:height= in line:
+                  <td align="center" background="images/buttonInactive.png" height="35" width="166">
+10/16/24 3:26:54 PM :Warning: Failed to parse tag:width= in line:
+      <center> <a href="https://www.facebook.com/efianalytics/"><img alt="Whats New" src="images/whatsNew.jpg" border="0" height="105" width="120"></a><br>
+10/16/24 3:26:54 PM :Warning: Failed to parse tag:height= in line:
+      <center> <a href="https://www.facebook.com/efianalytics/"><img alt="Whats New" src="images/whatsNew.jpg" border="0" height="105" width="120"></a><br>
+10/16/24 3:26:56 PM :Info: Loading Font list.
+10/16/24 3:26:56 PM :Debug: Time to retreive font name list: 47 ms.
+10/16/24 3:26:56 PM :Info: 
+10/16/24 3:26:56 PM :Info: Initializing UI Components.
+10/16/24 3:26:56 PM :Info: Ready
+10/16/24 3:26:56 PM :Info: IniUpdate: No updates available.
+10/16/24 3:26:56 PM :Info: IncUpdate: No updates available.
+MSmain: No check, last update check=Tue Oct 15 17:06:08 PDT 2024
+MSad: No check, last update check=Tue Oct 15 17:06:12 PDT 2024
+10/16/24 3:27:14 PM :Debug: Directory Changed:
+	Old:C:\Users\jacks\OneDrive\Documents
+	New:D:\E28-Turbo\car-ECU-Tune
+10/16/24 3:27:16 PM :Debug: File Changed:
+	Old:null
+	New:D:\E28-Turbo\car-ECU-Tune\E28-535i
+10/16/24 3:27:16 PM :Info: Opening Project ...
+10/16/24 3:27:16 PM :Debug: Opening project: D:\E28-Turbo\car-ECU-Tune\E28-535i
+10/16/24 3:27:16 PM :Debug: Reading translation file as plain text
+10/16/24 3:27:16 PM :Info: Supported iniSpecVersion=3.77
+10/16/24 3:27:16 PM :Debug: Filtered ConfigurationOptionGroup in 10ms.
+10/16/24 3:27:16 PM :Info: Supported iniSpecVersion=3.77
+10/16/24 3:27:16 PM :Info: Read file canPcVariables.ini: 2.7826ms
+10/16/24 3:27:16 PM :Info: Filtered ini: 0.0419ms
+10/16/24 3:27:16 PM :Info: No iniVersion defined
+10/16/24 3:27:16 PM :Info: Loading Trigger Wheels
+10/16/24 3:27:16 PM :Info: Loaded All known ini sections
+10/16/24 3:27:16 PM :Info: Parsed and validated ini "canPcVariables.ini" in : 32ms.
+10/16/24 3:27:16 PM :Info: Read file mainController.ini: 4.8761ms
+10/16/24 3:27:16 PM :Info: Filtered ini: 3.8748ms
+10/16/24 3:27:16 PM :Info: No iniVersion defined
+10/16/24 3:27:16 PM :Debug: ini signature: MS3 Format 0238.001
+10/16/24 3:27:16 PM :Info: Set Write Blocks on = true
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:32. Not adding: "INVALID", Problem at:
+[mainController.ini]:[Line:371]:       knk_pin_out     = bits, U08,      129, [0:4], "Off", "IAC1", "IAC2", "FIDLE", "D15", "Nitrous 1", "Nitrous 2", "Tacho", "Idle", "Boost", "VVT", "Inj Bank 1", "Inj Bank 2", "D14", "D16", "JS11", "Inj A", "Inj B", "Inj C", "Inj D", "Inj E", "Inj F", "Inj G", "Inj H", "PT4", "IGN (JS10)", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID"
+
+[Duplicate entry] received 16 times: Warning: More bit options defined than possible, max options:32. Not adding: "INVALID", Problem at:
+[mainController.ini]:[Line:371]:       knk_pin_out     = bits, U08,      129, [0:4], "Off", "IAC1", "IAC2", "FIDLE", "D15", "Nitrous 1", "Nitrous 2", "Tacho", "Idle", "Boost", "VVT", "Inj Bank 1", "Inj Bank 2", "D14", "D16", "JS11", "Inj A", "Inj B", "Inj C", "Inj D", "Inj E", "Inj F", "Inj G", "Inj H", "PT4", "IGN (JS10)", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:2. Not adding: //, Problem at:
+[mainController.ini]:[Line:518]:       feature4_0VEtblsize=bits,  U08,    246,      [2:2], "16x16","12x12" // not used
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:2. Not adding: not, Problem at:
+[mainController.ini]:[Line:518]:       feature4_0VEtblsize=bits,  U08,    246,      [2:2], "16x16","12x12" // not used
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:2. Not adding: used, Problem at:
+[mainController.ini]:[Line:518]:       feature4_0VEtblsize=bits,  U08,    246,      [2:2], "16x16","12x12" // not used
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:32. Not adding: "INVALID", Problem at:
+[mainController.ini]:[Line:700]:       boost_ctl_pins           = bits,   U08, 388, [0:4], "INVALID", "IAC1", "IAC2", "FIDLE", "D15", "Nitrous 1", "Nitrous 2", "Tacho", "Idle", "Boost", "VVT", "Inj Bank 1", "Inj Bank 2", "D14", "D16", "JS11", "Inj A", "Inj B", "Inj C", "Inj D", "Inj E", "Inj F", "Inj G", "Inj H", "PT4", "IGN (JS10)", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID"
+
+10/16/24 3:27:16 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1110]:     canadc_id1  = scalar, U08,  966, "", 1, 0, 0, 14, 0, 0
+
+10/16/24 3:27:16 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1111]:     canadc_id2  = scalar, U08,  967, "", 1, 0, 0, 14, 0, 0
+
+10/16/24 3:27:16 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1112]:     canadc_id3  = scalar, U08,  968, "", 1, 0, 0, 14, 0, 0
+
+10/16/24 3:27:16 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1113]:     canadc_id4  = scalar, U08,  969, "", 1, 0, 0, 14, 0, 0
+
+10/16/24 3:27:16 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1114]:     canadc_id5  = scalar, U08,  970, "", 1, 0, 0, 14, 0, 0
+
+10/16/24 3:27:16 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1115]:     canadc_id6  = scalar, U08,  971, "", 1, 0, 0, 14, 0, 0
+
+10/16/24 3:27:16 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1116]:     canadc_tab1 = scalar, U08,  972, "", 1, 0, 0, 31, 0, 0
+
+10/16/24 3:27:16 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1117]:     canadc_tab2 = scalar, U08,  973, "", 1, 0, 0, 31, 0, 0
+
+10/16/24 3:27:16 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1118]:     canadc_tab3 = scalar, U08,  974, "", 1, 0, 0, 31, 0, 0
+
+10/16/24 3:27:16 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1119]:     canadc_tab4 = scalar, U08,  975, "", 1, 0, 0, 31, 0, 0
+
+10/16/24 3:27:16 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1120]:     canadc_tab5 = scalar, U08,  976, "", 1, 0, 0, 31, 0, 0
+
+10/16/24 3:27:16 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1121]:     canadc_tab6 = scalar, U08,  977, "", 1, 0, 0, 31, 0, 0
+
+10/16/24 3:27:16 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1122]:     canadc_off1 = scalar, U16,  978, "", 1, 0, 0, 1023, 0, 0
+
+10/16/24 3:27:16 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1123]:     canadc_off2 = scalar, U16,  980, "", 1, 0, 0, 1023, 0, 0
+
+10/16/24 3:27:16 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1124]:     canadc_off3 = scalar, U16,  982, "", 1, 0, 0, 1023, 0, 0
+
+10/16/24 3:27:16 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1125]:     canadc_off4 = scalar, U16,  984, "", 1, 0, 0, 1023, 0, 0
+
+10/16/24 3:27:16 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1126]:     canadc_off5 = scalar, U16,  986, "", 1, 0, 0, 1023, 0, 0
+
+10/16/24 3:27:16 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1127]:     canadc_off6 = scalar, U16,  988, "", 1, 0, 0, 1023, 0, 0
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:32. Not adding: "INVALID", Problem at:
+[mainController.ini]:[Line:1218]:       boost_ctl_pins2           = bits,   U08, 23, [0:4], "INVALID", "IAC1", "IAC2", "FIDLE", "D15", "Nitrous 1", "Nitrous 2", "Tacho", "Idle", "Boost", "VVT", "Inj Bank 1", "Inj Bank 2", "D14", "D16", "JS11", "Inj A", "Inj B", "Inj C", "Inj D", "Inj E", "Inj F", "Inj G", "Inj H", "PT4", "IGN (JS10)", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1247]:     egomap2     = bits,   U08,  57, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1247]:     egomap2     = bits,   U08,  57, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1247]:     egomap2     = bits,   U08,  57, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1247]:     egomap2     = bits,   U08,  57, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1247]:     egomap2     = bits,   U08,  57, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1247]:     egomap2     = bits,   U08,  57, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1247]:     egomap2     = bits,   U08,  57, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1247]:     egomap2     = bits,   U08,  57, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1248]:     egomap3     = bits,   U08,  58, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1248]:     egomap3     = bits,   U08,  58, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1248]:     egomap3     = bits,   U08,  58, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1248]:     egomap3     = bits,   U08,  58, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1248]:     egomap3     = bits,   U08,  58, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1248]:     egomap3     = bits,   U08,  58, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1248]:     egomap3     = bits,   U08,  58, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1248]:     egomap3     = bits,   U08,  58, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1249]:     egomap4     = bits,   U08,  59, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1249]:     egomap4     = bits,   U08,  59, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1249]:     egomap4     = bits,   U08,  59, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1249]:     egomap4     = bits,   U08,  59, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1249]:     egomap4     = bits,   U08,  59, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1249]:     egomap4     = bits,   U08,  59, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1249]:     egomap4     = bits,   U08,  59, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1249]:     egomap4     = bits,   U08,  59, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1250]:     egomap5     = bits,   U08,  60, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1250]:     egomap5     = bits,   U08,  60, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1250]:     egomap5     = bits,   U08,  60, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1250]:     egomap5     = bits,   U08,  60, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1250]:     egomap5     = bits,   U08,  60, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1250]:     egomap5     = bits,   U08,  60, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1250]:     egomap5     = bits,   U08,  60, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1250]:     egomap5     = bits,   U08,  60, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1251]:     egomap6     = bits,   U08,  61, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1251]:     egomap6     = bits,   U08,  61, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1251]:     egomap6     = bits,   U08,  61, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1251]:     egomap6     = bits,   U08,  61, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1251]:     egomap6     = bits,   U08,  61, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1251]:     egomap6     = bits,   U08,  61, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1251]:     egomap6     = bits,   U08,  61, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1251]:     egomap6     = bits,   U08,  61, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1252]:     egomap7     = bits,   U08,  62, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1252]:     egomap7     = bits,   U08,  62, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1252]:     egomap7     = bits,   U08,  62, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1252]:     egomap7     = bits,   U08,  62, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1252]:     egomap7     = bits,   U08,  62, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1252]:     egomap7     = bits,   U08,  62, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1252]:     egomap7     = bits,   U08,  62, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1252]:     egomap7     = bits,   U08,  62, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1253]:     egomap8     = bits,   U08,  63, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1253]:     egomap8     = bits,   U08,  63, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1253]:     egomap8     = bits,   U08,  63, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1253]:     egomap8     = bits,   U08,  63, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1253]:     egomap8     = bits,   U08,  63, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1253]:     egomap8     = bits,   U08,  63, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1253]:     egomap8     = bits,   U08,  63, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1253]:     egomap8     = bits,   U08,  63, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1254]:     egomap9     = bits,   U08,  64, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1254]:     egomap9     = bits,   U08,  64, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1254]:     egomap9     = bits,   U08,  64, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1254]:     egomap9     = bits,   U08,  64, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1254]:     egomap9     = bits,   U08,  64, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1254]:     egomap9     = bits,   U08,  64, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1254]:     egomap9     = bits,   U08,  64, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1254]:     egomap9     = bits,   U08,  64, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1255]:     egomap10    = bits,   U08,  65, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1255]:     egomap10    = bits,   U08,  65, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1255]:     egomap10    = bits,   U08,  65, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1255]:     egomap10    = bits,   U08,  65, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1255]:     egomap10    = bits,   U08,  65, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1255]:     egomap10    = bits,   U08,  65, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1255]:     egomap10    = bits,   U08,  65, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1255]:     egomap10    = bits,   U08,  65, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1256]:     egomap11    = bits,   U08,  66, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1256]:     egomap11    = bits,   U08,  66, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1256]:     egomap11    = bits,   U08,  66, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1256]:     egomap11    = bits,   U08,  66, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1256]:     egomap11    = bits,   U08,  66, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1256]:     egomap11    = bits,   U08,  66, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1256]:     egomap11    = bits,   U08,  66, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1256]:     egomap11    = bits,   U08,  66, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1257]:     egomap12    = bits,   U08,  67, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1257]:     egomap12    = bits,   U08,  67, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1257]:     egomap12    = bits,   U08,  67, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1257]:     egomap12    = bits,   U08,  67, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1257]:     egomap12    = bits,   U08,  67, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1257]:     egomap12    = bits,   U08,  67, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1257]:     egomap12    = bits,   U08,  67, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1257]:     egomap12    = bits,   U08,  67, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1258]:     egomap13    = bits,   U08,  68, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1258]:     egomap13    = bits,   U08,  68, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1258]:     egomap13    = bits,   U08,  68, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1258]:     egomap13    = bits,   U08,  68, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1258]:     egomap13    = bits,   U08,  68, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1258]:     egomap13    = bits,   U08,  68, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1258]:     egomap13    = bits,   U08,  68, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1258]:     egomap13    = bits,   U08,  68, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1259]:     egomap14    = bits,   U08,  69, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1259]:     egomap14    = bits,   U08,  69, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1259]:     egomap14    = bits,   U08,  69, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1259]:     egomap14    = bits,   U08,  69, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1259]:     egomap14    = bits,   U08,  69, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1259]:     egomap14    = bits,   U08,  69, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1259]:     egomap14    = bits,   U08,  69, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1259]:     egomap14    = bits,   U08,  69, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1260]:     egomap15    = bits,   U08,  70, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1260]:     egomap15    = bits,   U08,  70, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1260]:     egomap15    = bits,   U08,  70, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1260]:     egomap15    = bits,   U08,  70, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1260]:     egomap15    = bits,   U08,  70, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1260]:     egomap15    = bits,   U08,  70, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1260]:     egomap15    = bits,   U08,  70, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1260]:     egomap15    = bits,   U08,  70, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1261]:     egomap16    = bits,   U08,  71, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1261]:     egomap16    = bits,   U08,  71, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1261]:     egomap16    = bits,   U08,  71, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1261]:     egomap16    = bits,   U08,  71, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1261]:     egomap16    = bits,   U08,  71, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1261]:     egomap16    = bits,   U08,  71, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1261]:     egomap16    = bits,   U08,  71, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1261]:     egomap16    = bits,   U08,  71, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:27:16 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7939]:    pwseq1           = scalar, U16,  144,  "ms", 0.001, 0,0
+
+10/16/24 3:27:16 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7940]:    pwseq2           = scalar, U16,  146,  "ms", 0.001, 0,0
+
+10/16/24 3:27:16 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7941]:    pwseq3           = scalar, U16,  148,  "ms", 0.001, 0,0
+
+10/16/24 3:27:16 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7942]:    pwseq4           = scalar, U16,  150,  "ms", 0.001, 0,0
+
+10/16/24 3:27:16 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7943]:    pwseq5           = scalar, U16,  152,  "ms", 0.001, 0,0
+
+10/16/24 3:27:16 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7944]:    pwseq6           = scalar, U16,  154,  "ms", 0.001, 0,0
+
+10/16/24 3:27:16 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7945]:    pwseq7           = scalar, U16,  156,  "ms", 0.001, 0,0
+
+10/16/24 3:27:16 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7946]:    pwseq8           = scalar, U16,  158,  "ms", 0.001, 0,0
+
+10/16/24 3:27:16 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7947]:    pwseq9           = scalar, U16,  160,  "ms", 0.001, 0,0
+
+10/16/24 3:27:16 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7948]:    pwseq10          = scalar, U16,  162,  "ms", 0.001, 0,0
+
+10/16/24 3:27:16 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7949]:    pwseq11          = scalar, U16,  164,  "ms", 0.001, 0,0
+
+10/16/24 3:27:16 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7950]:    pwseq12          = scalar, U16,  166,  "ms", 0.001, 0,0
+
+10/16/24 3:27:16 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7951]:    pwseq13          = scalar, U16,  168,  "ms", 0.001, 0,0
+
+10/16/24 3:27:16 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7952]:    pwseq14          = scalar, U16,  170,  "ms", 0.001, 0,0
+
+10/16/24 3:27:16 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7953]:    pwseq15          = scalar, U16,  172,  "ms", 0.001, 0,0
+
+10/16/24 3:27:16 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7954]:    pwseq16          = scalar, U16,  174,  "ms", 0.001, 0,0
+
+10/16/24 3:27:16 PM :Info: Loading Trigger Wheels
+10/16/24 3:27:16 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+10/16/24 3:27:16 PM :Warning: [UserDefined] field assigned to array Constant 'timedout1_offdelay'. Use array1D for array Constants, Problem at:
+[mainController.ini]:[Line:4654]:           field = "Delay", timedout1_offdelay, {timedout1_in && timedout1_out}
+
+10/16/24 3:27:16 PM :Warning: [UserDefined] field assigned to array Constant 'tstop_delay'. Use array1D for array Constants, Problem at:
+[mainController.ini]:[Line:4657]:           field = "On delay after launch", tstop_delay, {tstop_out}
+
+10/16/24 3:27:16 PM :Warning: [UserDefined] field assigned to array Constant 'tstop_hold'. Use array1D for array Constants, Problem at:
+[mainController.ini]:[Line:4658]:           field = "Keep on for", tstop_hold, {tstop_out}
+
+10/16/24 3:27:16 PM :Info: Loaded All known ini sections
+10/16/24 3:27:16 PM :Info: Parsed and validated ini "mainController.ini" in : 124ms.
+10/16/24 3:27:16 PM :Info: Supported iniSpecVersion=3.77
+10/16/24 3:27:16 PM :Info: Read file ms3DefaultTools.ini: 2.2725ms
+10/16/24 3:27:16 PM :Info: Filtered ini: 0.0034ms
+10/16/24 3:27:16 PM :Info: No iniVersion defined
+10/16/24 3:27:16 PM :Info: Loading Trigger Wheels
+10/16/24 3:27:16 PM :Info: Loaded All known ini sections
+10/16/24 3:27:16 PM :Info: Parsed and validated ini "ms3DefaultTools.ini" in : 0ms.
+10/16/24 3:27:16 PM :Info: Time to load primary config: 287.5736ms. used cached config: false
+10/16/24 3:27:16 PM :Info: Supported iniSpecVersion=3.77
+10/16/24 3:27:16 PM :Info: Read file ms3_1.0_WueAnalyzeMap.ecu: 2.6335ms
+10/16/24 3:27:16 PM :Info: Filtered ini: 0.0395ms
+10/16/24 3:27:16 PM :Info: No iniVersion defined
+10/16/24 3:27:16 PM :Info: Loading Trigger Wheels
+10/16/24 3:27:16 PM :Info: Loaded All known ini sections
+10/16/24 3:27:16 PM :Info: Parsed and validated ini "ms3_1.0_WueAnalyzeMap.ecu" in : 0ms.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+10/16/24 3:27:16 PM :Debug: set baud to 115200
+10/16/24 3:27:16 PM :Info: Setting connection to: RS232: Port:COM1, Baud:115200
+10/16/24 3:27:16 PM :Debug: Adding Configuration: E28-535i
+10/16/24 3:27:16 PM :Debug: Fill Constants: 32
+10/16/24 3:27:16 PM :Info: Tune opened, 2060 bytes updated. File:D:\E28-Turbo\car-ECU-Tune\E28-535i\CurrentTune.msq
+[Duplicate entry] received 2 times: Info: Tune opened, 2060 bytes updated. File:D:\E28-Turbo\car-ECU-Tune\E28-535i\CurrentTune.msq
+10/16/24 3:27:16 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 3:27:16 PM :Debug: Flush lasted: 88ms.
+10/16/24 3:27:16 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 3:27:17 PM :Debug: Flush lasted: 78ms.
+10/16/24 3:27:17 PM :Debug: Skip Burn, last write page: -2
+10/16/24 3:27:17 PM :Info: !!! Loaded config in 652
+10/16/24 3:27:17 PM :Info: !!! Activated Project 871
+10/16/24 3:27:17 PM :Info: Opening Gauge Cluster..
+10/16/24 3:27:17 PM :Debug: High Speed Paint: true
+10/16/24 3:27:17 PM :Info: 
+10/16/24 3:27:17 PM :Info: Com Thread created: COMM Thread83247.87579510969
+10/16/24 3:27:17 PM :Info: endModalBlock called, but Root Pane is not a ProgressPane.
+10/16/24 3:27:17 PM :Debug: !!! Opened Dash 1264
+10/16/24 3:27:17 PM :Debug: Deactivated fast paint Main Dashboard
+10/16/24 3:27:17 PM :Info: Comm Manager for E28-535i Started, thread ID: COMM Thread83247.87579510969
+10/16/24 3:27:17 PM :Info: Connecting to controller on: RS232: Port:COM1, Baud:115200
+10/16/24 3:27:17 PM :Info: E28-535i Ready
+10/16/24 3:27:17 PM :Debug: Tuning View Files loaded in 0.1245ms.
+10/16/24 3:27:17 PM :Debug: Port not valid: Unable to open port: COM1
+Please check your Communications Settings. 
+10/16/24 3:27:17 PM :Info: Supported iniSpecVersion=3.77
+10/16/24 3:27:17 PM :Info: Read file ms3VeAnalyzeMaps.ini: 3.594ms
+10/16/24 3:27:17 PM :Info: Filtered ini: 0.1199ms
+10/16/24 3:27:17 PM :Info: No iniVersion defined
+10/16/24 3:27:17 PM :Info: Loading Trigger Wheels
+10/16/24 3:27:17 PM :Info: Loaded All known ini sections
+10/16/24 3:27:17 PM :Info: Parsed and validated ini "ms3VeAnalyzeMaps.ini" in : 0ms.
+10/16/24 3:27:18 PM :Info: No Persistor set, not activating persisted triggers.
+10/16/24 3:27:43 PM :Info: file:CurrentTune.msq is not Monitored, cannot pause Monitoring of it.
+10/16/24 3:27:43 PM :Info: Time to save msq: 74.59689
+10/16/24 3:27:43 PM :Info: file:CurrentTune.msq is not Monitored, cannot unpause Monitoring of it.
+10/16/24 3:27:43 PM :Info: closeApp Called
+10/16/24 3:27:43 PM :Debug: TuneLog Editor set text
+10/16/24 3:27:43 PM :Info: file:CurrentTune.msq is not Monitored, cannot pause Monitoring of it.
+10/16/24 3:27:43 PM :Info: Time to save msq: 9.1297
+10/16/24 3:27:43 PM :Info: file:CurrentTune.msq is not Monitored, cannot unpause Monitoring of it.
+10/16/24 3:27:43 PM :Debug: goOffline Starting, Time:0
+10/16/24 3:27:43 PM :Info: Deactivated Turbo Baud, goOffline
+10/16/24 3:27:43 PM :Debug: goOffline about to stopProcessing, Time:0
+10/16/24 3:27:43 PM :Debug: goOffline closed port, Time:0
+10/16/24 3:27:44 PM :Info: E28-535i ComThread stopped COMM Thread83247.87579510969
+10/16/24 3:27:44 PM :Debug: goOffline comm thread stopped, Time:378
+10/16/24 3:27:44 PM :Debug: No Remaining Queue Write instructions
+10/16/24 3:27:44 PM :Debug: removing Configuration: E28-535i
+10/16/24 3:27:44 PM :Info: No Persistor set, not saving active triggers.
+10/16/24 3:27:44 PM :Debug: ############################################# Save Project Backup ##########################################
+10/16/24 3:27:44 PM :Info: Finalizing Sensors
+Saved user properties successfully
+Starting on PARKERS-X1
+TunerStudio 3.2.03 started on Wed Oct 16 15:57:28 PDT 2024
+JRE 1.8.0_382, Windows 11 10.0, x86
+java.library.path=./lib
+TunerStudioMS.jar
+Look:Metal, ClassName:'javax.swing.plaf.metal.MetalLookAndFeel'
+Look:Nimbus, ClassName:'javax.swing.plaf.nimbus.NimbusLookAndFeel'
+Look:CDE/Motif, ClassName:'com.sun.java.swing.plaf.motif.MotifLookAndFeel'
+Look:Windows, ClassName:'com.sun.java.swing.plaf.windows.WindowsLookAndFeel'
+Look:Windows Classic, ClassName:'com.sun.java.swing.plaf.windows.WindowsClassicLookAndFeel'
+Look:Night Shade, ClassName:'de.muntjak.tinylookandfeel.TinyLookAndFeel'
+Setting Look & Feel to:javax.swing.plaf.metal.MetalLookAndFeel
+ScrollBar.width
+10/16/24 3:57:28 PM :Debug: no update:defaultFont
+10/16/24 3:57:28 PM :Info: Initializing File Dialogs.
+10/16/24 3:57:28 PM :Debug: hid: 545.0856
+10/16/24 3:57:29 PM :Info: Loading Language Content.
+10/16/24 3:57:31 PM :Debug: Command Non-VolatileBytes for F resolved to: x46                                                                   F
+10/16/24 3:57:31 PM :Debug: Command Non-VolatileBytes for I resolved to: x49                                                                   I
+10/16/24 3:57:31 PM :Debug: Command Non-VolatileBytes for f resolved to: x66                                                                   f
+10/16/24 3:57:31 PM :Info: Initializing Help.
+10/16/24 3:57:31 PM :Info: Initializing Edition Features.
+10/16/24 3:57:31 PM :Info: Initializing App Events.
+10/16/24 3:57:31 PM :Debug: App Name:TunerStudio, appEdition:MS Lite!
+10/16/24 3:57:31 PM :Debug: Dummy Function Factory Created.
+10/16/24 3:57:31 PM :Info: Initializing User Interface
+10/16/24 3:57:31 PM :Warning: Failed to parse tag:width= in line:
+                  <td align="center" background="images/buttonActive.png" height="35" width="166">
+10/16/24 3:57:31 PM :Warning: Failed to parse tag:height= in line:
+                  <td align="center" background="images/buttonActive.png" height="35" width="166">
+10/16/24 3:57:31 PM :Warning: Failed to parse tag:width= in line:
+                  <td align="center" background="images/buttonInactive.png" height="35" width="166">
+10/16/24 3:57:31 PM :Warning: Failed to parse tag:height= in line:
+                  <td align="center" background="images/buttonInactive.png" height="35" width="166">
+10/16/24 3:57:31 PM :Warning: Failed to parse tag:height= in line:
+	  <img  width=225 " height="110" alt="MLV HD" src="images/Histogram-250px.png"><br>
+10/16/24 3:57:31 PM :Warning: Failed to parse tag:height= in line:
+      <div style="text-align: center;"><img width=225 " height="110" alt="TS Dash" src="images/doubleSweep-400pi.png"><br>
+10/16/24 3:57:33 PM :Info: Loading Font list.
+10/16/24 3:57:33 PM :Debug: Time to retreive font name list: 15 ms.
+10/16/24 3:57:33 PM :Info: 
+10/16/24 3:57:33 PM :Info: Initializing UI Components.
+10/16/24 3:57:33 PM :Info: Ready
+10/16/24 3:57:33 PM :Info: IniUpdate: No updates available.
+10/16/24 3:57:33 PM :Info: IncUpdate: No updates available.
+MSmain: No check, last update check=Tue Oct 15 17:06:08 PDT 2024
+MSad: No check, last update check=Tue Oct 15 17:06:12 PDT 2024
+10/16/24 3:58:41 PM :Debug: Directory Changed:
+	Old:C:\Users\jacks\OneDrive\Documents
+	New:D:\E28-Turbo\car-ECU-Tune
+10/16/24 3:58:43 PM :Debug: File Changed:
+	Old:null
+	New:D:\E28-Turbo\car-ECU-Tune\E28-535i
+10/16/24 3:58:43 PM :Info: Opening Project ...
+10/16/24 3:58:43 PM :Debug: Opening project: D:\E28-Turbo\car-ECU-Tune\E28-535i
+10/16/24 3:58:43 PM :Debug: Reading translation file as plain text
+10/16/24 3:58:43 PM :Info: Supported iniSpecVersion=3.77
+10/16/24 3:58:43 PM :Debug: Filtered ConfigurationOptionGroup in 11ms.
+10/16/24 3:58:43 PM :Info: Supported iniSpecVersion=3.77
+10/16/24 3:58:43 PM :Info: Read file canPcVariables.ini: 1.1313ms
+10/16/24 3:58:43 PM :Info: Filtered ini: 0.0424ms
+10/16/24 3:58:43 PM :Info: No iniVersion defined
+10/16/24 3:58:43 PM :Info: Loading Trigger Wheels
+10/16/24 3:58:43 PM :Info: Loaded All known ini sections
+10/16/24 3:58:43 PM :Info: Parsed and validated ini "canPcVariables.ini" in : 16ms.
+10/16/24 3:58:43 PM :Info: Read file mainController.ini: 6.133ms
+10/16/24 3:58:43 PM :Info: Filtered ini: 4.3013ms
+10/16/24 3:58:43 PM :Info: No iniVersion defined
+10/16/24 3:58:43 PM :Debug: ini signature: MS3 Format 0238.001
+10/16/24 3:58:43 PM :Info: Set Write Blocks on = true
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:32. Not adding: "INVALID", Problem at:
+[mainController.ini]:[Line:371]:       knk_pin_out     = bits, U08,      129, [0:4], "Off", "IAC1", "IAC2", "FIDLE", "D15", "Nitrous 1", "Nitrous 2", "Tacho", "Idle", "Boost", "VVT", "Inj Bank 1", "Inj Bank 2", "D14", "D16", "JS11", "Inj A", "Inj B", "Inj C", "Inj D", "Inj E", "Inj F", "Inj G", "Inj H", "PT4", "IGN (JS10)", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID"
+
+[Duplicate entry] received 16 times: Warning: More bit options defined than possible, max options:32. Not adding: "INVALID", Problem at:
+[mainController.ini]:[Line:371]:       knk_pin_out     = bits, U08,      129, [0:4], "Off", "IAC1", "IAC2", "FIDLE", "D15", "Nitrous 1", "Nitrous 2", "Tacho", "Idle", "Boost", "VVT", "Inj Bank 1", "Inj Bank 2", "D14", "D16", "JS11", "Inj A", "Inj B", "Inj C", "Inj D", "Inj E", "Inj F", "Inj G", "Inj H", "PT4", "IGN (JS10)", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:2. Not adding: //, Problem at:
+[mainController.ini]:[Line:518]:       feature4_0VEtblsize=bits,  U08,    246,      [2:2], "16x16","12x12" // not used
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:2. Not adding: not, Problem at:
+[mainController.ini]:[Line:518]:       feature4_0VEtblsize=bits,  U08,    246,      [2:2], "16x16","12x12" // not used
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:2. Not adding: used, Problem at:
+[mainController.ini]:[Line:518]:       feature4_0VEtblsize=bits,  U08,    246,      [2:2], "16x16","12x12" // not used
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:32. Not adding: "INVALID", Problem at:
+[mainController.ini]:[Line:700]:       boost_ctl_pins           = bits,   U08, 388, [0:4], "INVALID", "IAC1", "IAC2", "FIDLE", "D15", "Nitrous 1", "Nitrous 2", "Tacho", "Idle", "Boost", "VVT", "Inj Bank 1", "Inj Bank 2", "D14", "D16", "JS11", "Inj A", "Inj B", "Inj C", "Inj D", "Inj E", "Inj F", "Inj G", "Inj H", "PT4", "IGN (JS10)", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID"
+
+10/16/24 3:58:43 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1110]:     canadc_id1  = scalar, U08,  966, "", 1, 0, 0, 14, 0, 0
+
+10/16/24 3:58:43 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1111]:     canadc_id2  = scalar, U08,  967, "", 1, 0, 0, 14, 0, 0
+
+10/16/24 3:58:43 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1112]:     canadc_id3  = scalar, U08,  968, "", 1, 0, 0, 14, 0, 0
+
+10/16/24 3:58:43 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1113]:     canadc_id4  = scalar, U08,  969, "", 1, 0, 0, 14, 0, 0
+
+10/16/24 3:58:43 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1114]:     canadc_id5  = scalar, U08,  970, "", 1, 0, 0, 14, 0, 0
+
+10/16/24 3:58:43 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1115]:     canadc_id6  = scalar, U08,  971, "", 1, 0, 0, 14, 0, 0
+
+10/16/24 3:58:43 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1116]:     canadc_tab1 = scalar, U08,  972, "", 1, 0, 0, 31, 0, 0
+
+10/16/24 3:58:43 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1117]:     canadc_tab2 = scalar, U08,  973, "", 1, 0, 0, 31, 0, 0
+
+10/16/24 3:58:43 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1118]:     canadc_tab3 = scalar, U08,  974, "", 1, 0, 0, 31, 0, 0
+
+10/16/24 3:58:43 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1119]:     canadc_tab4 = scalar, U08,  975, "", 1, 0, 0, 31, 0, 0
+
+10/16/24 3:58:43 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1120]:     canadc_tab5 = scalar, U08,  976, "", 1, 0, 0, 31, 0, 0
+
+10/16/24 3:58:43 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1121]:     canadc_tab6 = scalar, U08,  977, "", 1, 0, 0, 31, 0, 0
+
+10/16/24 3:58:43 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1122]:     canadc_off1 = scalar, U16,  978, "", 1, 0, 0, 1023, 0, 0
+
+10/16/24 3:58:43 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1123]:     canadc_off2 = scalar, U16,  980, "", 1, 0, 0, 1023, 0, 0
+
+10/16/24 3:58:43 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1124]:     canadc_off3 = scalar, U16,  982, "", 1, 0, 0, 1023, 0, 0
+
+10/16/24 3:58:43 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1125]:     canadc_off4 = scalar, U16,  984, "", 1, 0, 0, 1023, 0, 0
+
+10/16/24 3:58:43 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1126]:     canadc_off5 = scalar, U16,  986, "", 1, 0, 0, 1023, 0, 0
+
+10/16/24 3:58:43 PM :Warning: Unknown Constant Option: 0, Problem at:
+[mainController.ini]:[Line:1127]:     canadc_off6 = scalar, U16,  988, "", 1, 0, 0, 1023, 0, 0
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:32. Not adding: "INVALID", Problem at:
+[mainController.ini]:[Line:1218]:       boost_ctl_pins2           = bits,   U08, 23, [0:4], "INVALID", "IAC1", "IAC2", "FIDLE", "D15", "Nitrous 1", "Nitrous 2", "Tacho", "Idle", "Boost", "VVT", "Inj Bank 1", "Inj Bank 2", "D14", "D16", "JS11", "Inj A", "Inj B", "Inj C", "Inj D", "Inj E", "Inj F", "Inj G", "Inj H", "PT4", "IGN (JS10)", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID", "INVALID"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1247]:     egomap2     = bits,   U08,  57, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1247]:     egomap2     = bits,   U08,  57, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1247]:     egomap2     = bits,   U08,  57, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1247]:     egomap2     = bits,   U08,  57, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1247]:     egomap2     = bits,   U08,  57, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1247]:     egomap2     = bits,   U08,  57, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1247]:     egomap2     = bits,   U08,  57, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1247]:     egomap2     = bits,   U08,  57, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1248]:     egomap3     = bits,   U08,  58, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1248]:     egomap3     = bits,   U08,  58, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1248]:     egomap3     = bits,   U08,  58, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1248]:     egomap3     = bits,   U08,  58, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1248]:     egomap3     = bits,   U08,  58, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1248]:     egomap3     = bits,   U08,  58, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1248]:     egomap3     = bits,   U08,  58, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1248]:     egomap3     = bits,   U08,  58, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1249]:     egomap4     = bits,   U08,  59, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1249]:     egomap4     = bits,   U08,  59, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1249]:     egomap4     = bits,   U08,  59, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1249]:     egomap4     = bits,   U08,  59, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1249]:     egomap4     = bits,   U08,  59, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1249]:     egomap4     = bits,   U08,  59, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1249]:     egomap4     = bits,   U08,  59, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1249]:     egomap4     = bits,   U08,  59, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1250]:     egomap5     = bits,   U08,  60, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1250]:     egomap5     = bits,   U08,  60, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1250]:     egomap5     = bits,   U08,  60, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1250]:     egomap5     = bits,   U08,  60, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1250]:     egomap5     = bits,   U08,  60, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1250]:     egomap5     = bits,   U08,  60, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1250]:     egomap5     = bits,   U08,  60, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1250]:     egomap5     = bits,   U08,  60, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1251]:     egomap6     = bits,   U08,  61, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1251]:     egomap6     = bits,   U08,  61, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1251]:     egomap6     = bits,   U08,  61, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1251]:     egomap6     = bits,   U08,  61, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1251]:     egomap6     = bits,   U08,  61, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1251]:     egomap6     = bits,   U08,  61, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1251]:     egomap6     = bits,   U08,  61, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1251]:     egomap6     = bits,   U08,  61, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1252]:     egomap7     = bits,   U08,  62, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1252]:     egomap7     = bits,   U08,  62, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1252]:     egomap7     = bits,   U08,  62, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1252]:     egomap7     = bits,   U08,  62, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1252]:     egomap7     = bits,   U08,  62, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1252]:     egomap7     = bits,   U08,  62, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1252]:     egomap7     = bits,   U08,  62, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1252]:     egomap7     = bits,   U08,  62, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1253]:     egomap8     = bits,   U08,  63, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1253]:     egomap8     = bits,   U08,  63, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1253]:     egomap8     = bits,   U08,  63, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1253]:     egomap8     = bits,   U08,  63, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1253]:     egomap8     = bits,   U08,  63, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1253]:     egomap8     = bits,   U08,  63, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1253]:     egomap8     = bits,   U08,  63, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1253]:     egomap8     = bits,   U08,  63, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1254]:     egomap9     = bits,   U08,  64, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1254]:     egomap9     = bits,   U08,  64, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1254]:     egomap9     = bits,   U08,  64, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1254]:     egomap9     = bits,   U08,  64, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1254]:     egomap9     = bits,   U08,  64, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1254]:     egomap9     = bits,   U08,  64, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1254]:     egomap9     = bits,   U08,  64, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1254]:     egomap9     = bits,   U08,  64, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1255]:     egomap10    = bits,   U08,  65, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1255]:     egomap10    = bits,   U08,  65, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1255]:     egomap10    = bits,   U08,  65, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1255]:     egomap10    = bits,   U08,  65, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1255]:     egomap10    = bits,   U08,  65, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1255]:     egomap10    = bits,   U08,  65, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1255]:     egomap10    = bits,   U08,  65, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1255]:     egomap10    = bits,   U08,  65, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1256]:     egomap11    = bits,   U08,  66, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1256]:     egomap11    = bits,   U08,  66, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1256]:     egomap11    = bits,   U08,  66, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1256]:     egomap11    = bits,   U08,  66, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1256]:     egomap11    = bits,   U08,  66, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1256]:     egomap11    = bits,   U08,  66, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1256]:     egomap11    = bits,   U08,  66, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1256]:     egomap11    = bits,   U08,  66, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1257]:     egomap12    = bits,   U08,  67, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1257]:     egomap12    = bits,   U08,  67, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1257]:     egomap12    = bits,   U08,  67, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1257]:     egomap12    = bits,   U08,  67, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1257]:     egomap12    = bits,   U08,  67, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1257]:     egomap12    = bits,   U08,  67, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1257]:     egomap12    = bits,   U08,  67, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1257]:     egomap12    = bits,   U08,  67, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1258]:     egomap13    = bits,   U08,  68, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1258]:     egomap13    = bits,   U08,  68, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1258]:     egomap13    = bits,   U08,  68, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1258]:     egomap13    = bits,   U08,  68, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1258]:     egomap13    = bits,   U08,  68, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1258]:     egomap13    = bits,   U08,  68, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1258]:     egomap13    = bits,   U08,  68, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1258]:     egomap13    = bits,   U08,  68, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1259]:     egomap14    = bits,   U08,  69, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1259]:     egomap14    = bits,   U08,  69, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1259]:     egomap14    = bits,   U08,  69, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1259]:     egomap14    = bits,   U08,  69, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1259]:     egomap14    = bits,   U08,  69, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1259]:     egomap14    = bits,   U08,  69, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1259]:     egomap14    = bits,   U08,  69, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1259]:     egomap14    = bits,   U08,  69, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1260]:     egomap15    = bits,   U08,  70, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1260]:     egomap15    = bits,   U08,  70, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1260]:     egomap15    = bits,   U08,  70, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1260]:     egomap15    = bits,   U08,  70, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1260]:     egomap15    = bits,   U08,  70, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1260]:     egomap15    = bits,   U08,  70, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1260]:     egomap15    = bits,   U08,  70, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1260]:     egomap15    = bits,   U08,  70, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO9", Problem at:
+[mainController.ini]:[Line:1261]:     egomap16    = bits,   U08,  71, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO10", Problem at:
+[mainController.ini]:[Line:1261]:     egomap16    = bits,   U08,  71, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO11", Problem at:
+[mainController.ini]:[Line:1261]:     egomap16    = bits,   U08,  71, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO12", Problem at:
+[mainController.ini]:[Line:1261]:     egomap16    = bits,   U08,  71, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO13", Problem at:
+[mainController.ini]:[Line:1261]:     egomap16    = bits,   U08,  71, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO14", Problem at:
+[mainController.ini]:[Line:1261]:     egomap16    = bits,   U08,  71, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO15", Problem at:
+[mainController.ini]:[Line:1261]:     egomap16    = bits,   U08,  71, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: More bit options defined than possible, max options:8. Not adding: "EGO16", Problem at:
+[mainController.ini]:[Line:1261]:     egomap16    = bits,   U08,  71, [0:2], "EGO1", "EGO2", "EGO3", "EGO4", "EGO5", "EGO6", "EGO7", "EGO8", "EGO9", "EGO10", "EGO11", "EGO12", "EGO13", "EGO14", "EGO15", "EGO16"
+
+10/16/24 3:58:43 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7939]:    pwseq1           = scalar, U16,  144,  "ms", 0.001, 0,0
+
+10/16/24 3:58:43 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7940]:    pwseq2           = scalar, U16,  146,  "ms", 0.001, 0,0
+
+10/16/24 3:58:43 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7941]:    pwseq3           = scalar, U16,  148,  "ms", 0.001, 0,0
+
+10/16/24 3:58:43 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7942]:    pwseq4           = scalar, U16,  150,  "ms", 0.001, 0,0
+
+10/16/24 3:58:43 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7943]:    pwseq5           = scalar, U16,  152,  "ms", 0.001, 0,0
+
+10/16/24 3:58:43 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7944]:    pwseq6           = scalar, U16,  154,  "ms", 0.001, 0,0
+
+10/16/24 3:58:43 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7945]:    pwseq7           = scalar, U16,  156,  "ms", 0.001, 0,0
+
+10/16/24 3:58:43 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7946]:    pwseq8           = scalar, U16,  158,  "ms", 0.001, 0,0
+
+10/16/24 3:58:43 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7947]:    pwseq9           = scalar, U16,  160,  "ms", 0.001, 0,0
+
+10/16/24 3:58:43 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7948]:    pwseq10          = scalar, U16,  162,  "ms", 0.001, 0,0
+
+10/16/24 3:58:43 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7949]:    pwseq11          = scalar, U16,  164,  "ms", 0.001, 0,0
+
+10/16/24 3:58:43 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7950]:    pwseq12          = scalar, U16,  166,  "ms", 0.001, 0,0
+
+10/16/24 3:58:43 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7951]:    pwseq13          = scalar, U16,  168,  "ms", 0.001, 0,0
+
+10/16/24 3:58:43 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7952]:    pwseq14          = scalar, U16,  170,  "ms", 0.001, 0,0
+
+10/16/24 3:58:43 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7953]:    pwseq15          = scalar, U16,  172,  "ms", 0.001, 0,0
+
+10/16/24 3:58:43 PM :Warning: Unknown OutputChannel visible condition or flag, Problem at:
+[mainController.ini]:[Line:7954]:    pwseq16          = scalar, U16,  174,  "ms", 0.001, 0,0
+
+10/16/24 3:58:43 PM :Info: Loading Trigger Wheels
+10/16/24 3:58:43 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+10/16/24 3:58:43 PM :Warning: [UserDefined] field assigned to array Constant 'timedout1_offdelay'. Use array1D for array Constants, Problem at:
+[mainController.ini]:[Line:4654]:           field = "Delay", timedout1_offdelay, {timedout1_in && timedout1_out}
+
+10/16/24 3:58:43 PM :Warning: [UserDefined] field assigned to array Constant 'tstop_delay'. Use array1D for array Constants, Problem at:
+[mainController.ini]:[Line:4657]:           field = "On delay after launch", tstop_delay, {tstop_out}
+
+10/16/24 3:58:43 PM :Warning: [UserDefined] field assigned to array Constant 'tstop_hold'. Use array1D for array Constants, Problem at:
+[mainController.ini]:[Line:4658]:           field = "Keep on for", tstop_hold, {tstop_out}
+
+10/16/24 3:58:43 PM :Info: Loaded All known ini sections
+10/16/24 3:58:43 PM :Info: Parsed and validated ini "mainController.ini" in : 140ms.
+10/16/24 3:58:43 PM :Info: Supported iniSpecVersion=3.77
+10/16/24 3:58:43 PM :Info: Read file ms3DefaultTools.ini: 1.4958ms
+10/16/24 3:58:43 PM :Info: Filtered ini: 0.0032ms
+10/16/24 3:58:43 PM :Info: No iniVersion defined
+10/16/24 3:58:43 PM :Info: Loading Trigger Wheels
+10/16/24 3:58:43 PM :Info: Loaded All known ini sections
+10/16/24 3:58:43 PM :Info: Parsed and validated ini "ms3DefaultTools.ini" in : 16ms.
+10/16/24 3:58:43 PM :Info: Time to load primary config: 217.16809ms. used cached config: false
+10/16/24 3:58:43 PM :Info: Supported iniSpecVersion=3.77
+10/16/24 3:58:43 PM :Info: Read file ms3_1.0_WueAnalyzeMap.ecu: 2.2498ms
+10/16/24 3:58:43 PM :Info: Filtered ini: 0.0414ms
+10/16/24 3:58:43 PM :Info: No iniVersion defined
+10/16/24 3:58:43 PM :Info: Loading Trigger Wheels
+10/16/24 3:58:43 PM :Info: Loaded All known ini sections
+10/16/24 3:58:43 PM :Info: Parsed and validated ini "ms3_1.0_WueAnalyzeMap.ecu" in : 0ms.
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+10/16/24 3:58:43 PM :Debug: set baud to 115200
+10/16/24 3:58:43 PM :Info: Setting connection to: RS232: Port:COM1, Baud:115200
+10/16/24 3:58:43 PM :Debug: Adding Configuration: E28-535i
+10/16/24 3:58:43 PM :Debug: Fill Constants: 15
+10/16/24 3:58:43 PM :Info: Tune opened, 2060 bytes updated. File:D:\E28-Turbo\car-ECU-Tune\E28-535i\CurrentTune.msq
+[Duplicate entry] received 2 times: Info: Tune opened, 2060 bytes updated. File:D:\E28-Turbo\car-ECU-Tune\E28-535i\CurrentTune.msq
+10/16/24 3:58:43 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 3:58:43 PM :Debug: Flush lasted: 77ms.
+10/16/24 3:58:43 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 3:58:43 PM :Debug: Flush lasted: 79ms.
+10/16/24 3:58:43 PM :Debug: Skip Burn, last write page: -2
+10/16/24 3:58:43 PM :Info: !!! Loaded config in 580
+10/16/24 3:58:44 PM :Info: !!! Activated Project 783
+10/16/24 3:58:44 PM :Info: Opening Gauge Cluster..
+10/16/24 3:58:44 PM :Debug: High Speed Paint: true
+10/16/24 3:58:44 PM :Info: 
+10/16/24 3:58:44 PM :Info: Com Thread created: COMM Thread27608.216844037313
+10/16/24 3:58:44 PM :Debug: Deactivated fast paint Main Dashboard
+10/16/24 3:58:44 PM :Info: endModalBlock called, but Root Pane is not a ProgressPane.
+10/16/24 3:58:44 PM :Debug: !!! Opened Dash 1205
+10/16/24 3:58:44 PM :Info: Comm Manager for E28-535i Started, thread ID: COMM Thread27608.216844037313
+10/16/24 3:58:44 PM :Info: Connecting to controller on: RS232: Port:COM1, Baud:115200
+10/16/24 3:58:44 PM :Info: E28-535i Ready
+10/16/24 3:58:44 PM :Debug: Port not valid: Unable to open port: COM1
+Please check your Communications Settings. 
+10/16/24 3:58:44 PM :Debug: Tuning View Files loaded in 0.1286ms.
+10/16/24 3:58:44 PM :Info: Supported iniSpecVersion=3.77
+10/16/24 3:58:44 PM :Info: Read file ms3VeAnalyzeMaps.ini: 1.6724ms
+10/16/24 3:58:44 PM :Info: Filtered ini: 0.1211ms
+10/16/24 3:58:44 PM :Info: No iniVersion defined
+10/16/24 3:58:44 PM :Info: Loading Trigger Wheels
+10/16/24 3:58:44 PM :Info: Loaded All known ini sections
+10/16/24 3:58:44 PM :Info: Parsed and validated ini "ms3VeAnalyzeMaps.ini" in : 0ms.
+10/16/24 3:58:44 PM :Info: No Persistor set, not activating persisted triggers.
+10/16/24 3:58:57 PM :Info: Initiating read page 1 : 77:826
+10/16/24 4:02:50 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 4:02:50 PM :Debug: Flush lasted: 76ms.
+10/16/24 4:02:50 PM :Debug: Skip Burn, last write page: -2
+10/16/24 4:02:53 PM :Info: Initiating read page 1 : 74:730
+10/16/24 4:02:53 PM :Info: Initiating read page 2 : 96:4
+10/16/24 4:46:50 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 4:46:50 PM :Debug: Flush lasted: 79ms.
+10/16/24 4:46:50 PM :Debug: Skip Burn, last write page: -2
+10/16/24 4:46:55 PM :Info: file:CurrentTune.msq is not Monitored, cannot pause Monitoring of it.
+10/16/24 4:46:55 PM :Info: Time to save msq: 59.6522
+10/16/24 4:46:55 PM :Info: file:CurrentTune.msq is not Monitored, cannot unpause Monitoring of it.
+10/16/24 4:46:55 PM :Info: file:CurrentTune.msq is not Monitored, cannot pause Monitoring of it.
+10/16/24 4:46:55 PM :Info: Time to save msq: 13.867
+10/16/24 4:46:55 PM :Info: E28-535i Tune Saved!
+10/16/24 4:46:55 PM :Info: file:CurrentTune.msq is not Monitored, cannot unpause Monitoring of it.
+10/16/24 4:48:17 PM :Info: Initiating read page 1 : 74:730
+10/16/24 4:48:17 PM :Info: Initiating read page 2 : 96:4
+10/16/24 4:48:24 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 4:48:24 PM :Debug: Flush lasted: 78ms.
+10/16/24 4:48:24 PM :Debug: Skip Burn, last write page: -2
+10/16/24 4:48:29 PM :Info: Initiating read page 1 : 94:905
+10/16/24 4:48:29 PM :Info: Initiating read page 2 : 40:26
+10/16/24 4:58:08 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 4:58:08 PM :Debug: Flush lasted: 78ms.
+10/16/24 4:58:08 PM :Debug: Skip Burn, last write page: -2
+10/16/24 4:58:11 PM :Info: Initiating read page 1 : 77:826
+10/16/24 4:58:13 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 4:58:13 PM :Debug: Flush lasted: 78ms.
+10/16/24 4:58:13 PM :Debug: Skip Burn, last write page: -2
+10/16/24 4:58:18 PM :Info: Initiating read page 1 : 10:352
+10/16/24 4:58:18 PM :Info: Initiating read page 3 : 678:32
+10/16/24 5:01:26 PM :Debug: Clearing selection. Vertical: true
+10/16/24 5:01:29 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:01:29 PM :Debug: Flush lasted: 79ms.
+10/16/24 5:01:29 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:01:32 PM :Info: Initiating read page 1 : 10:352
+10/16/24 5:01:32 PM :Info: Initiating read page 3 : 678:32
+10/16/24 5:02:56 PM :Debug: Clearing selection. Vertical: true
+[Duplicate entry] received 3 times: Debug: Clearing selection. Vertical: true
+10/16/24 5:06:09 PM :Debug: Clearing selection. Vertical: true
+[Duplicate entry] received 5 times: Debug: Clearing selection. Vertical: true
+10/16/24 5:07:44 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:07:44 PM :Debug: Flush lasted: 78ms.
+10/16/24 5:07:44 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:07:48 PM :Info: Initiating read page 1 : 10:352
+10/16/24 5:07:48 PM :Info: Initiating read page 3 : 678:32
+10/16/24 5:07:54 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:07:54 PM :Debug: Flush lasted: 78ms.
+10/16/24 5:07:54 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:08:00 PM :Info: Initiating read page 1 : 10:352
+10/16/24 5:08:00 PM :Info: Initiating read page 3 : 678:32
+10/16/24 5:08:13 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:08:14 PM :Debug: Flush lasted: 78ms.
+10/16/24 5:08:14 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:09:07 PM :Info: Initiating read page 1 : 279:1
+10/16/24 5:09:15 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:09:15 PM :Debug: Flush lasted: 78ms.
+10/16/24 5:09:15 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:09:19 PM :Info: Initiating read page 14 : 926:16
+10/16/24 5:09:23 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:09:23 PM :Debug: Flush lasted: 78ms.
+10/16/24 5:09:23 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:09:25 PM :Info: Initiating read page 1 : 198:799
+10/16/24 5:11:27 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:11:27 PM :Debug: Flush lasted: 78ms.
+10/16/24 5:11:27 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:11:37 PM :Info: Initiating read page 1 : 77:880
+10/16/24 5:11:37 PM :Info: Initiating read page 2 : 23:878
+10/16/24 5:11:37 PM :Info: Initiating read page 14 : 336:594
+10/16/24 5:11:45 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:11:45 PM :Debug: Flush lasted: 77ms.
+10/16/24 5:11:45 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:12:27 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:12:27 PM :Debug: Flush lasted: 83ms.
+10/16/24 5:12:27 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:13:04 PM :Info: Initiating read page 1 : 77:880
+10/16/24 5:13:04 PM :Info: Initiating read page 2 : 23:878
+10/16/24 5:13:04 PM :Info: Initiating read page 14 : 336:594
+10/16/24 5:13:06 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:13:06 PM :Debug: Flush lasted: 84ms.
+10/16/24 5:13:06 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:13:08 PM :Debug: High Speed Paint: true
+[Duplicate entry] received 2 times: Debug: High Speed Paint: true
+10/16/24 5:13:08 PM :Debug: Deactivated fast paint null
+10/16/24 5:13:20 PM :Info: Initiating read page 1 : 132:780
+10/16/24 5:13:20 PM :Info: Initiating read page 2 : 92:4
+10/16/24 5:13:20 PM :Info: Initiating read page 6 : 934:36
+10/16/24 5:13:33 PM :Debug: Param: MAFFlow value: -2.147483648E7 below minimum: 0.0
+[Duplicate entry] received 3 times: Debug: Param: MAFFlow value: -2.147483648E7 below minimum: 0.0
+10/16/24 5:13:42 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:13:43 PM :Debug: Flush lasted: 86ms.
+10/16/24 5:13:43 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:13:53 PM :Info: Initiating read page 3 : 522:464
+10/16/24 5:14:03 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:14:03 PM :Debug: Flush lasted: 78ms.
+10/16/24 5:14:03 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:14:32 PM :Info: Initiating read page 1 : 279:1
+10/16/24 5:14:38 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:14:38 PM :Debug: Flush lasted: 79ms.
+10/16/24 5:14:38 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:15:47 PM :Info: Initiating read page 1 : 198:799
+10/16/24 5:15:54 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:15:54 PM :Debug: Flush lasted: 78ms.
+10/16/24 5:15:54 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:16:31 PM :Info: Initiating read page 14 : 926:16
+10/16/24 5:16:33 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:16:33 PM :Debug: Flush lasted: 78ms.
+10/16/24 5:16:33 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:16:36 PM :Info: Initiating read page 3 : 522:464
+10/16/24 5:16:59 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:16:59 PM :Debug: Flush lasted: 79ms.
+10/16/24 5:16:59 PM :Debug: Skip Burn, last write page: -2
+Oct 16, 2024 5:17:39 PM bf.a c
+SEVERE: null
+com.efiAnalytics.remotefileaccess.RemoteAccessException: Controller not online.
+	at aD.p.g(Unknown Source)
+	at bf.a.c(Unknown Source)
+	at bf.a.b(Unknown Source)
+	at bf.c.run(Unknown Source)
+
+10/16/24 5:17:39 PM :Info: Initiating read page 1 : 142:702
+Oct 16, 2024 5:17:49 PM bf.a c
+SEVERE: null
+com.efiAnalytics.remotefileaccess.RemoteAccessException: Controller not online.
+	at aD.p.g(Unknown Source)
+	at bf.a.c(Unknown Source)
+	at bf.a.b(Unknown Source)
+	at bf.c.run(Unknown Source)
+
+10/16/24 5:17:56 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:17:56 PM :Debug: Flush lasted: 79ms.
+10/16/24 5:17:56 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:19:12 PM :Info: Initiating read page 3 : 522:464
+10/16/24 5:19:21 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:19:21 PM :Debug: Flush lasted: 79ms.
+10/16/24 5:19:21 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:19:23 PM :Info: Initiating read page 1 : 718:85
+10/16/24 5:19:23 PM :Info: Initiating read page 5 : 304:32
+10/16/24 5:19:43 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:19:43 PM :Debug: Flush lasted: 79ms.
+10/16/24 5:19:43 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:19:45 PM :Info: Initiating read page 3 : 522:464
+10/16/24 5:20:26 PM :Debug: Param: baroCorrVals value: 130.0 exceeds maximum: 110.0
+[Duplicate entry] received 2 times: Debug: Param: baroCorrVals value: 130.0 exceeds maximum: 110.0
+10/16/24 5:20:34 PM :Debug: Param: baroCorrVals value: 180.0 exceeds maximum: 110.0
+10/16/24 5:21:42 PM :Debug: Clearing selection. Vertical: true
+10/16/24 5:22:26 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:22:26 PM :Debug: Flush lasted: 74ms.
+10/16/24 5:22:26 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:22:30 PM :Info: Initiating read page 1 : 718:85
+10/16/24 5:22:30 PM :Info: Initiating read page 5 : 304:32
+10/16/24 5:24:00 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:24:00 PM :Debug: Flush lasted: 78ms.
+10/16/24 5:24:00 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:24:02 PM :Info: Initiating read page 1 : 718:85
+10/16/24 5:24:02 PM :Info: Initiating read page 5 : 304:32
+10/16/24 5:24:26 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:24:26 PM :Debug: Flush lasted: 78ms.
+10/16/24 5:24:26 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:24:31 PM :Info: Initiating read page 1 : 132:780
+10/16/24 5:24:31 PM :Info: Initiating read page 2 : 92:4
+10/16/24 5:24:31 PM :Info: Initiating read page 6 : 934:36
+10/16/24 5:25:03 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:25:03 PM :Debug: Flush lasted: 79ms.
+10/16/24 5:25:03 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:25:20 PM :Info: Initiating read page 1 : 132:780
+10/16/24 5:25:20 PM :Info: Initiating read page 2 : 92:4
+10/16/24 5:25:20 PM :Info: Initiating read page 6 : 934:36
+10/16/24 5:29:28 PM :Debug: Param: MAFCor value: 300.0 exceeds maximum: 255.0
+10/16/24 5:30:56 PM :Debug: Clearing selection. Vertical: true
+[Duplicate entry] received 3 times: Debug: Clearing selection. Vertical: true
+10/16/24 5:31:51 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:31:51 PM :Debug: Flush lasted: 77ms.
+10/16/24 5:31:51 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:32:04 PM :Info: Initiating read page 1 : 132:780
+10/16/24 5:32:04 PM :Info: Initiating read page 2 : 92:4
+10/16/24 5:32:04 PM :Info: Initiating read page 6 : 934:36
+10/16/24 5:32:31 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:32:31 PM :Debug: Flush lasted: 78ms.
+10/16/24 5:32:31 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:32:47 PM :Info: Initiating read page 1 : 774:177
+10/16/24 5:46:23 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:46:23 PM :Debug: Flush lasted: 78ms.
+10/16/24 5:46:23 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:46:27 PM :Debug: High Speed Paint: true
+[Duplicate entry] received 2 times: Debug: High Speed Paint: true
+10/16/24 5:46:27 PM :Debug: Deactivated fast paint null
+10/16/24 5:46:32 PM :Info: Initiating read page 1 : 77:880
+10/16/24 5:46:32 PM :Info: Initiating read page 2 : 23:878
+10/16/24 5:46:32 PM :Info: Initiating read page 14 : 336:594
+10/16/24 5:46:36 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:46:36 PM :Debug: Flush lasted: 79ms.
+10/16/24 5:46:36 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:47:06 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:47:06 PM :Debug: Flush lasted: 79ms.
+10/16/24 5:47:06 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:47:10 PM :Debug: High Speed Paint: true
+[Duplicate entry] received 2 times: Debug: High Speed Paint: true
+10/16/24 5:47:10 PM :Debug: Deactivated fast paint null
+10/16/24 5:47:30 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:47:30 PM :Debug: Flush lasted: 78ms.
+10/16/24 5:47:30 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:47:32 PM :Info: Initiating read page 1 : 77:880
+10/16/24 5:47:32 PM :Info: Initiating read page 2 : 23:878
+10/16/24 5:47:32 PM :Info: Initiating read page 14 : 336:594
+10/16/24 5:47:49 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:47:49 PM :Debug: Flush lasted: 78ms.
+10/16/24 5:47:49 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:48:08 PM :Info: Initiating read page 1 : 77:880
+10/16/24 5:48:08 PM :Info: Initiating read page 2 : 23:878
+10/16/24 5:48:08 PM :Info: Initiating read page 14 : 336:594
+10/16/24 5:48:11 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:48:11 PM :Debug: Flush lasted: 78ms.
+10/16/24 5:48:11 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:48:21 PM :Info: dirtyData.size(): 0
+[Duplicate entry] received 2 times: Info: dirtyData.size(): 0
+10/16/24 5:48:21 PM :Debug: Flush lasted: 78ms.
+10/16/24 5:48:21 PM :Debug: Skip Burn, last write page: -2
+10/16/24 5:53:04 PM :Info: file:CurrentTune.msq is not Monitored, cannot pause Monitoring of it.
+10/16/24 5:53:04 PM :Info: Time to save msq: 30.7965
+10/16/24 5:53:04 PM :Info: file:CurrentTune.msq is not Monitored, cannot unpause Monitoring of it.
+10/16/24 5:53:04 PM :Info: file:CurrentTune.msq is not Monitored, cannot pause Monitoring of it.
+10/16/24 5:53:04 PM :Info: Time to save msq: 11.5498
+10/16/24 5:53:04 PM :Info: E28-535i Tune Saved!
+10/16/24 5:53:04 PM :Info: file:CurrentTune.msq is not Monitored, cannot unpause Monitoring of it.
+10/16/24 5:53:11 PM :Info: Opening URL: http://www.tunerstudio.com/index.php/shadowdashmsmenu
+10/16/24 5:54:05 PM :Info: file:CurrentTune.msq is not Monitored, cannot pause Monitoring of it.
+10/16/24 5:54:05 PM :Info: Time to save msq: 16.9216
+10/16/24 5:54:05 PM :Info: file:CurrentTune.msq is not Monitored, cannot unpause Monitoring of it.
+10/16/24 5:54:05 PM :Info: file:CurrentTune.msq is not Monitored, cannot pause Monitoring of it.
+10/16/24 5:54:05 PM :Info: Time to save msq: 11.6031
+10/16/24 5:54:05 PM :Info: E28-535i Tune Saved!
+10/16/24 5:54:05 PM :Info: file:CurrentTune.msq is not Monitored, cannot unpause Monitoring of it.
+10/16/24 5:54:07 PM :Debug: TuneLog Editor set text
+10/16/24 5:54:07 PM :Info: file:CurrentTune.msq is not Monitored, cannot pause Monitoring of it.
+10/16/24 5:54:07 PM :Info: Time to save msq: 8.2023
+10/16/24 5:54:07 PM :Info: file:CurrentTune.msq is not Monitored, cannot unpause Monitoring of it.
+10/16/24 5:54:07 PM :Debug: goOffline Starting, Time:0
+10/16/24 5:54:07 PM :Info: Deactivated Turbo Baud, goOffline
+10/16/24 5:54:07 PM :Debug: goOffline about to stopProcessing, Time:0
+10/16/24 5:54:07 PM :Debug: goOffline closed port, Time:0
+10/16/24 5:54:07 PM :Info: E28-535i ComThread stopped COMM Thread27608.216844037313
+10/16/24 5:54:07 PM :Debug: goOffline comm thread stopped, Time:188
+10/16/24 5:54:07 PM :Debug: No Remaining Queue Write instructions
+10/16/24 5:54:07 PM :Debug: removing Configuration: E28-535i
+10/16/24 5:54:07 PM :Info: No Persistor set, not saving active triggers.
+10/16/24 5:54:07 PM :Debug: ############################################# Save Project Backup ##########################################
+10/16/24 5:54:07 PM :Info: closeApp Called
+10/16/24 5:54:07 PM :Info: Finalizing Sensors
+Saved user properties successfully

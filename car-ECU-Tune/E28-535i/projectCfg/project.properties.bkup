@@ -1,7 +1,7 @@
 #Project Attributes.
 #TunerStudio by EFI Analytics, Inc
-#Last Saved on: Tue Oct 15 20:32:26 PDT 2024
-#Tue Oct 15 20:32:26 PDT 2024
+#Last Saved on: Wed Oct 16 15:27:44 PDT 2024
+#Wed Oct 16 15:27:44 PDT 2024
 CommSettingPARKERS-X1CommDriver.RS232\ Serial\ InterfaceCom\ Port=COM1
 accelsettingsAccel\ enrich\ settings_Y=226
 tableswTable\ Switching\ and\ Dual\ Fuel_height=700
@@ -26,8 +26,8 @@ flexFuelSettingsFuel\ Sensor\ Settings_X=459
 injsettingsInjector\ Dead-time/PWM_X=121
 tcsettingsTraction\ Control_Y=170
 boostBoost\ Control_Y=75
-tpsDotCurve_Set\ Y\ Axis\ Minimum=0.0
 tcsettingsTraction\ Control_X=473
+tpsDotCurve_Set\ Y\ Axis\ Minimum=0.0
 boostBoost\ Control_X=336
 revlimiterBins_Auto\ Scale\ X\ Axis\ Maximum=false
 veTable1TblVE\ Table\ 1_width=917
@@ -40,9 +40,9 @@ CommSettingMSCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
 tpsDotCurve_Auto\ Scale\ Y\ Axis\ Maximum=false
 CommSettingBaud\ Rate=115200
 asePct_Set\ X\ Axis\ Minimum=-40.0
-tpsDotCurve_Set\ Y\ Axis\ Maximum=50.0
 CommSettingCom\ Port=COM1
 warmup_curve_Set\ Y\ Axis\ Minimum=90.0
+tpsDotCurve_Set\ Y\ Axis\ Maximum=50.0
 crankingPW_Set\ X\ Axis\ Minimum=-40.0
 asePct_Auto\ Scale\ Y\ Axis\ Maximum=false
 CommSettingPARKERS-X1CommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
@@ -130,15 +130,15 @@ coldAdvance_Set\ X\ Axis\ Minimum=-40.0
 aseTaperAfterstart\ Enrichment\ Taper_X=277
 useCommonTuneViewDir=false
 crankingPW_Auto\ Scale\ Y\ Axis\ Maximum=false
-tpsDotCurve_Auto\ Scale\ X\ Axis\ Maximum=false
 projectDescription=This tuning project focuses on optimizing the performance of a turbocharged BMW E28 535i, producing 500 wheel horsepower (whp) and running on E85 fuel. The goal is to fine-tune the engine's parameters to achieve maximum power output, efficiency, and drivability. Key areas of focus include adjusting the air-fuel ratio, optimizing boost control, and refining the ignition timing to fully utilize the higher octane and cooling properties of E85. The project aims to strike a balance between peak power, reliability, and smooth throttle response for an engaging driving experience.
+tpsDotCurve_Auto\ Scale\ X\ Axis\ Maximum=false
 generalsettings2General\ settings_width=643
 revlimiterBins_Set\ Y\ Axis\ Maximum=7000.0
 coldAdvanceCold\ Ignition\ Advance\ Offset_Y=130
 coldAdvanceCold\ Ignition\ Advance\ Offset_X=277
 useCommonDashboardDir=false
-tpsDotCurve_Set\ X\ Axis\ Maximum=
 warmup_curve_Set\ X\ Axis\ Minimum=-40.0
+tpsDotCurve_Set\ X\ Axis\ Maximum=
 asePct_Auto\ Scale\ X\ Axis\ Maximum=false
 CommSettingMSCommDriver.RS232\ Serial\ InterfaceCom\ Port=COM1
 aseTaper_Set\ Y\ Axis\ Maximum=10.0
