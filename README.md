@@ -437,6 +437,37 @@ The E32 735i TPS Wiring Bracket is a cap that acts a male connector for the TPS 
 > Try to setup all the safety features in the ECU.
 
 
+## My Tune
+
+### Engine and Sequential Settings
+
+- Control Algorithm        (Speed Density)
+- Squirts Per Engine Cycle (2)
+- Injector Staging         (Alternating)
+- Engine Stroke/Rotary     (Four-stroke)
+- No. Cylinders/Rotors     (6)
+- Injector Port Type       (Port Injection)
+- Number of injectors      (6)
+- Engine Type              (Even fire)
+- Engine size (cc)         (3430)
+- Injector size each (cc)  (840)
+
+Sequential Fuel Injection
+
+- Main fuel outputs  (Std fuel)
+- Sequential On      (Fully Sequential)
+- Angle specifies:   (End of squirt)
+- Injector Trim      (Off)
+
+Firing Order
+
+- A. (1)
+- B. (5)
+- C. (3)
+- D. (6)
+- E. (2)
+- F. (4)
+
 ## Sources :books:
 
 - [Turbo My Car Sheets](https://docs.google.com/spreadsheets/d/1L-gm92k8GjX_CAtG5Tr8l-kkGmf6Y0_LVqK74C0jl5A/edit?usp=sharing)
