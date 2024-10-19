@@ -401,23 +401,6 @@ The E32 735i TPS Wiring Bracket is a cap that acts a male connector for the TPS 
 
 ## Idle
 
-## Rev Limiter
-
-- The revs will be limited by controlling the fuel and spark. The rev hard limiter will be set to 6,200rpm.
-
-- The soft rev limiter will be set to 275 ie 5,925rpm.
-
-- The engine redlines at 6,200rpm however the turbo should be spooled by 4,000rpm. Therefore the turbo should be spooled by 4,000rpm and the engine should be making full power by 5,500rpm. so the redline can be set to 6,200rpm.
-
-> [!NOTE]
-> Coolant Rev Limiter is a good idea. (220F is a good temperature limit)
-> Fuel cutting is the softest rev limiter (used in OEM cars).
-
-> [!IMPORTANT]
-> Spark cut makes flames and bangs (For more flames give more timing retard).
-
-> [!WARNING]
-> Attempting to keep torque low at low RPMs (under 4500rpm) is a good idea. 
 
 
 ### 2 step launch control
@@ -441,74 +424,59 @@ The E32 735i TPS Wiring Bracket is a cap that acts a male connector for the TPS 
 
 ### Engine and Sequential Settings
 
-- Control Algorithm        (Speed Density)
-- Squirts Per Engine Cycle (2)
-- Injector Staging         (Alternating)
-- Engine Stroke/Rotary     (Four-stroke)
-- No. Cylinders/Rotors     (6)
-- Injector Port Type       (Port Injection)
-- Number of injectors      (6)
-- Engine Type              (Even fire)
-- Engine size (cc)         (3430)
-- Injector size each (cc)  (840)
-
-Sequential Fuel Injection
-
-- Main fuel outputs  (Std fuel)
-- Sequential On      (Fully Sequential)
-- Angle specifies:   (End of squirt)
-- Injector Trim      (Off)
-
-Firing Order
-
-- A. (1)
-- B. (5)
-- C. (3)
-- D. (6)
-- E. (2)
-- F. (4)
+![picture](./car-ECU-Tune/E28-535i/pics/Engine-and-Sequential-Settings.PNG)
 
 ### General Settings
 
-General Settings
+![picture](./car-ECU-Tune/E28-535i/pics/General-Settings.PNG)
 
-- Barometric Correction (Initial MAP Reading)
-- Upper Limit (kPa)     (102.0)
-- Lower Limit (kPa)     (70.0)
-- Default baro (kPa)    (99.6)
-- MAP sensor type       (Voltage)
-- Voltage input port    (Mainboard)
-- 2nd MAP port          (Off)
-- MegaView Temp. Units  (Coolant/MAT Tables in °F)
+### Rev Limiter
 
-Input Smoothing Lag Factors
+![picture](./car-ECU-Tune/E28-535i/pics/Rev-Limiter.PNG)
 
-- MAP Averaging Lag Factor    (95)
-- RPM Averaging Lag Factor    (100)
-- TPS Averaging Lag Factor    (95)
-- Lambda Averaging Lag Factor (90)
-- CLT/MAT/Battery Lag Factor  (75)
-- Auto-zero TPS               (On)
+- The revs will be limited by controlling the fuel and spark. The rev hard limiter will be set to 6,200rpm.
 
-Load Parameters
+- The soft rev limiter will be set to 275 ie 5,925rpm.
 
-- Primary Fuel Load       (Speed Density)
-- Secondary Fuel Load     (Disabled)
-- Multiply MAP (caution!) (multiply)
-- Incorporate AFR Target  (don't include AFR target)
-- Stoichiometric AFR      (14.7)
-- Primary Ignition Load   (Speed Density)
-- Secondary Ignition Load (Disabled)
-- AFR Table load          (Use primary load (Algorithm))
-- EAE curve load          (Use primary load (Algorithm))
+- The engine redlines at 6,200rpm however the turbo should be spooled by 4,000rpm. Therefore the turbo should be spooled by 4,000rpm and the engine should be making full power by 5,500rpm. so the redline can be set to 6,200rpm.
 
-Over Run Fuel Cut
+> [!NOTE]
+> Coolant Rev Limiter is a good idea. (220F is a good temperature limit)
+> Fuel cutting is the softest rev limiter (used in OEM cars).
 
-- Over Run Fuel Cut (On)
+> [!IMPORTANT]
+> Spark cut makes flames and bangs (For more flames give more timing retard).
 
-Cut fuel when:
+> [!WARNING]
+> Attempting to keep torque low at low RPMs (under 4500rpm) is a good idea.
 
-- RPM greater then 
+### Tachometer Output
+
+![picture](./car-ECU-Tune/E28-535i/pics/Tachometer-Output.PNG)
+
+### Fan Control
+
+![picture](./car-ECU-Tune/E28-535i/pics/Fan-Control.PNG)
+
+### Torque Convertor Lockup
+
+![picture](./car-ECU-Tune/E28-535i/pics/Torque-Convertor-Lockup.PNG)
+
+### Non-Linear Barometric Correction
+
+![picture](./car-ECU-Tune/E28-535i/pics/Non-Linear-Barometric-Correction.PNG)
+
+### MAP Sample Settings
+
+![picture](./car-ECU-Tune/E28-535i/pics/MAP-Sampling-Settings.PNG)
+
+### MAF Options
+
+![picture](./car-ECU-Tune/E28-535i/pics/MAF-Options.PNG)
+
+### Limit Settings
+
+![picture](./car-ECU-Tune/E28-535i/pics/Limit-Settings.PNG)
 
 ## Sources :books:
 
