@@ -369,7 +369,7 @@ The E32 735i TPS Wiring Bracket is a cap that acts a male connector for the TPS 
 
 | Name  | price  |
 | --- | --- | 
-| [TPS Female Connectors](https://www.digikey.com/en/products/detail/molex/1731120309/9352234) | $26.08 |
+| [TPS Female Connectors](https://www.digikey.com/en/products/detail/molex/1727040154/5817823) | $27.72 |
 
 ![TPS Connector](./part-pics/E32-M30-735i-535i-TPS-Sensor-0280120406.png)
 
