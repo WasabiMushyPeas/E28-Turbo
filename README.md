@@ -468,6 +468,48 @@ Firing Order
 - E. (2)
 - F. (4)
 
+### General Settings
+
+General Settings
+
+- Barometric Correction (Initial MAP Reading)
+- Upper Limit (kPa)     (102.0)
+- Lower Limit (kPa)     (70.0)
+- Default baro (kPa)    (99.6)
+- MAP sensor type       (Voltage)
+- Voltage input port    (Mainboard)
+- 2nd MAP port          (Off)
+- MegaView Temp. Units  (Coolant/MAT Tables in °F)
+
+Input Smoothing Lag Factors
+
+- MAP Averaging Lag Factor    (95)
+- RPM Averaging Lag Factor    (100)
+- TPS Averaging Lag Factor    (95)
+- Lambda Averaging Lag Factor (90)
+- CLT/MAT/Battery Lag Factor  (75)
+- Auto-zero TPS               (On)
+
+Load Parameters
+
+- Primary Fuel Load       (Speed Density)
+- Secondary Fuel Load     (Disabled)
+- Multiply MAP (caution!) (multiply)
+- Incorporate AFR Target  (don't include AFR target)
+- Stoichiometric AFR      (14.7)
+- Primary Ignition Load   (Speed Density)
+- Secondary Ignition Load (Disabled)
+- AFR Table load          (Use primary load (Algorithm))
+- EAE curve load          (Use primary load (Algorithm))
+
+Over Run Fuel Cut
+
+- Over Run Fuel Cut (On)
+
+Cut fuel when:
+
+- RPM greater then 
+
 ## Sources :books:
 
 - [Turbo My Car Sheets](https://docs.google.com/spreadsheets/d/1L-gm92k8GjX_CAtG5Tr8l-kkGmf6Y0_LVqK74C0jl5A/edit?usp=sharing)
