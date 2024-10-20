@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-<bibliography author="TunerStudio MS Lite! 3.2.03 - EFI Analytics, Inc." tuneComment="" writeDate="Wed Oct 16 17:54:07 PDT 2024"/>
+<bibliography author="TunerStudio MS Lite! 3.2.03 - EFI Analytics, Inc." tuneComment="" writeDate="Sat Oct 19 18:16:57 MDT 2024"/>
 <versionInfo fileFormat="5.0" firmwareInfo="" nPages="14" signature="MS3 Format 0238.001"/>
 <page>
 <pcVariable name="tsCanId">"CAN ID 0"</pcVariable>
@@ -62,7 +62,7 @@
 <constant digits="0" name="mapLF">95.0</constant>
 <constant digits="0" name="tpsLF">95.0</constant>
 <constant digits="0" name="egoLF">90.0</constant>
-<constant digits="0" name="adcLF">80.0</constant>
+<constant digits="0" name="adcLF">75.0</constant>
 <constant name="algorithm">"Speed Density"</constant>
 <constant name="algorithm2">"Disabled"</constant>
 <constant name="IgnAlgorithm">"Speed Density"</constant>
