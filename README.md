@@ -150,7 +150,10 @@ The stock E38/E30 Closed Element CLT is a good choice for this build however the
 
 ![CLT Bosh E32](./part-pics/20241012-DSC00955.jpg)
 
-### TPS Sensor ::WARNING:: not used ::WARNING::
+### TPS Sensor
+
+> [!CAUTION]
+> Not used
 
 The Bosh E34 TPS sensor is a good choice for this build. However I found a E32 735i TPS sensor in a junkyard so I will be using that.
 
@@ -363,7 +366,10 @@ The ECU will be tuned by me using TunerStudio. See [Tuning](#tuning-wrench) or t
 
 # 3D Printed Parts :printer:
 
-### E32 735i TPS Wiring Connector ::WARNING:: not used ::WARNING::
+### E32 735i TPS Wiring Connector 
+
+> [!CAUTION]
+> Not used
 
 The E32 735i TPS Wiring Bracket is a cap that acts a male connector for the TPS sensor. The bracket is 3D printed and is a good choice for this build. See the [3D Printed Parts](https://github.com/WasabiMushyPeas/E28-Turbo/tree/main/3D-printed-parts) for the files.
 
